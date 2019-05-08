@@ -7,26 +7,14 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 [readmore]
 # 目錄
 [TOC]
-# 標題一
+# 架設
 
-## 標題二
-連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
-
-`行內程式碼`
-
-```shell
-區塊程式碼
-```
-
-引用對照 [^1]。
 
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
-[^1]: [被引用連結說明:](http://tieba.baidu.com/p/4565248851)
-
 *最後編輯時間:2019/5/9*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzIzNDg0NSw5MjYzMTUzNzcsMTY5Nj
-kyNDA5OF19
+eyJoaXN0b3J5IjpbMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNj
+MxNTM3NywxNjk2OTI0MDk4XX0=
 -->
