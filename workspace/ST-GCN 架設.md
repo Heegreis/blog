@@ -3,7 +3,7 @@
 原論文: [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455)  
 GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) for Skeleton-Based Action Recognition in PyTorch](https://github.com/yysijie/st-gcn)
 
-此紀錄尚未成功，若架設成功會更新本文，若有架設成功的案例歡迎分享，謝謝。
+此紀錄尚未成功，若有進度會隨時更新本文，若有架設成功的案例歡迎分享，謝謝。
 [readmore]
 # 目錄
 [TOC]
@@ -15,6 +15,6 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 
 *最後編輯時間:2019/5/9*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNj
-MxNTM3NywxNjk2OTI0MDk4XX0=
+eyJoaXN0b3J5IjpbLTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NT
+MyMzQ4NDUsOTI2MzE1Mzc3LDE2OTY5MjQwOThdfQ==
 -->
