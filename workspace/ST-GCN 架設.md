@@ -1,3 +1,4 @@
+Spatial Temporal Graph Convolutional Networks(ST-GCN)
 Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action
 Recognition
 [readmore]
@@ -23,5 +24,5 @@ Recognition
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MjUxODkwLDE2OTY5MjQwOThdfQ==
+eyJoaXN0b3J5IjpbMTkzMzQ5NDYzNSwxNjk2OTI0MDk4XX0=
 -->
