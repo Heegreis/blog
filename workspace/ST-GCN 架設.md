@@ -25,8 +25,8 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 
 [^1]: [被引用連結說明:](http://tieba.baidu.com/p/4565248851)
 
-*最後編輯時間:2018/5/10*
+*最後編輯時間:2019/5/9*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk5NTUwMDQsOTI2MzE1Mzc3LDE2OT
-Y5MjQwOThdfQ==
+eyJoaXN0b3J5IjpbNTU1ODc4MTMzLDkyNjMxNTM3NywxNjk2OT
+I0MDk4XX0=
 -->
