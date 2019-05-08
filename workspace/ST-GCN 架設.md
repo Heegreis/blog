@@ -1,5 +1,6 @@
 紀錄Spatial Temporal Graph Convolutional Networks(ST-GCN)的架設過程，ST-GCN是一種深度學習網路，將GCN應用到基於骨架的人體動作識別方法。
-Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action
+
+原論文: [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action]()
 Recognition
 [readmore]
 # 目錄
@@ -24,5 +25,5 @@ Recognition
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDYxODg4LDE2OTY5MjQwOThdfQ==
+eyJoaXN0b3J5IjpbOTI2MzE1Mzc3LDE2OTY5MjQwOThdfQ==
 -->
