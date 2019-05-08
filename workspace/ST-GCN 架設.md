@@ -14,7 +14,11 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
 *最後編輯時間:2019/5/9*
+<!--tag:
+
+-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NT
-MyMzQ4NDUsOTI2MzE1Mzc3LDE2OTY5MjQwOThdfQ==
+eyJoaXN0b3J5IjpbNzc4Nzg3ODE1LC02OTI4MzQxMzQsMTY1ND
+EzNTAxOSwtOTUzMjM0ODQ1LDkyNjMxNTM3NywxNjk2OTI0MDk4
+XX0=
 -->
