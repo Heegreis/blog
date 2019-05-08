@@ -21,12 +21,12 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 引用對照 [^1]。
 
 # 參考資料
-[Installing TensorFlow on Windows | TensorFlow](https://www.tensorflow.org/install/install_windows)
+[动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
 [^1]: [被引用連結說明:](http://tieba.baidu.com/p/4565248851)
 
 *最後編輯時間:2019/5/9*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1ODc4MTMzLDkyNjMxNTM3NywxNjk2OT
-I0MDk4XX0=
+eyJoaXN0b3J5IjpbLTk1MzIzNDg0NSw5MjYzMTUzNzcsMTY5Nj
+kyNDA5OF19
 -->
