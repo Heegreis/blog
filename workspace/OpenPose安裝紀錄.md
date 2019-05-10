@@ -9,10 +9,6 @@ git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
 然後我們移動到 openpose資料夾底下，進行下面的指令操作
 # Prerequisites
 [^1]筆者使用Cmake GUI的方式安裝，遇到很多錯誤，所以就改用 command line 的方式安裝。
-**安裝 Cmake GUI**
-```shell
-sudo apt-get install cmake-qt-gui
-```
 
 **安裝 CUDA 8**
 ```shell
@@ -34,12 +30,6 @@ sudo bash ./scripts/ubuntu/install_deps.sh
 sudo apt-get install libopencv-dev
 ```
 # 安裝
-**事先的錯誤排除**[^2]
-先確認 OpenPose 專案下的 3rdparty/caffe 資料夾是不是空的，如果是空的則執行以下指令
-```shell
-git submodule init
-git submodle update
-```
 ## OpenPose Configuration
 [^3]開啟 Cmake 的 GUI 後
 - 在上方的 `Where is the source code` 欄位選擇 openpose 資料夾  
@@ -61,7 +51,7 @@ make -j`nproc`
 [^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTYxNjc5LDEzOTczODQ2MjksLTgwOT
-MyNzEzNSwxMjA2OTA0NzE5LDExMjk1OTM3MiwtMTE0NzAzNDcx
-MSwtMTA3NTE1MjYsLTE4OTMxMzcwNTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjEyNTA1NjcsMTM5NzM4NDYyOSwtOD
+A5MzI3MTM1LDEyMDY5MDQ3MTksMTEyOTU5MzcyLC0xMTQ3MDM0
+NzExLC0xMDc1MTUyNiwtMTg5MzEzNzA1Ml19
 -->
