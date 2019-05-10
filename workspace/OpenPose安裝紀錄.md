@@ -45,9 +45,9 @@ git submodle update
 - 在上方的 `Where is the source code` 欄位選擇 openpose 資料夾  
 - 在 `Where to build the binaries` 欄位選擇 openpose 資料夾，並在後面加上 `/build`  
 - 然後按下左下方的 `Configure` 按鈕
-- 出現是否建立資料夾就選
+- 出現是否建立資料夾就選yes，其他照預設的選擇
 
-等跑完後
+等跑完後，出現 `Configuring done` 表示成功
 # 參考資料
 [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
@@ -55,7 +55,7 @@ git submodle update
 [^2]:[Ubuntu Cmake-gui error while getting default Caffe · Issue #423 · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/issues/423)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5OTIyODU4LDEyMDY5MDQ3MTksMTEyOT
-U5MzcyLC0xMTQ3MDM0NzExLC0xMDc1MTUyNiwtMTg5MzEzNzA1
-Ml19
+eyJoaXN0b3J5IjpbMTg3MjI3NzA2OCwxMjA2OTA0NzE5LDExMj
+k1OTM3MiwtMTE0NzAzNDcxMSwtMTA3NTE1MjYsLTE4OTMxMzcw
+NTJdfQ==
 -->
