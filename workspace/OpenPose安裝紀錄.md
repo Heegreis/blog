@@ -33,7 +33,7 @@ sudo bash ./scripts/ubuntu/install_deps.sh
 sudo apt-get install libopencv-dev
 ```
 # 安裝
-
+先確認 
 開啟 Cmake
 
 # 參考資料
@@ -43,6 +43,6 @@ sudo apt-get install libopencv-dev
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDcwMzQ3MTEsLTEwNzUxNTI2LC0xOD
-kzMTM3MDUyXX0=
+eyJoaXN0b3J5IjpbLTE1ODk4NTY5ODgsLTExNDcwMzQ3MTEsLT
+EwNzUxNTI2LC0xODkzMTM3MDUyXX0=
 -->
