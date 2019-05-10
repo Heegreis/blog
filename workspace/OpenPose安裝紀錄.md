@@ -3,7 +3,7 @@
 **目錄**  
 [TOC]
 # Prerequisites
-這邊採用Cmake GUI的方式安裝
+這邊採用Cmake GUI的方式安裝，筆者另外有建立OpenPose的docker版本command line
 ## Cmake
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
@@ -23,5 +23,5 @@
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTAxNzkzMywtMTg5MzEzNzA1Ml19
+eyJoaXN0b3J5IjpbMjEzNTU1MTEwMCwtMTg5MzEzNzA1Ml19
 -->
