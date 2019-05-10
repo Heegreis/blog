@@ -1,3 +1,4 @@
+本文的作業系統是 ubuntu 16.04
 [readmore]
 **目錄**  
 [TOC]
@@ -21,5 +22,5 @@
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMxMzcwNTJdfQ==
+eyJoaXN0b3J5IjpbMzk3OTgxNjg5LC0xODkzMTM3MDUyXX0=
 -->
