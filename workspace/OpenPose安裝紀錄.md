@@ -32,14 +32,15 @@ sudo apt-get install libopencv-dev
 # 安裝
 ## OpenPose Configuration and Building
 [^3]
-```
+Configuration
+```shell
 mkdir build
 cd build
 cmake ..
 ```
-## OpenPose Building
+
+Building
 ```shell
-cd build/
 make -j`nproc`
 ```
 # 參考資料
@@ -50,7 +51,7 @@ make -j`nproc`
 [^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjY4MjA4MSwxMzk3Mzg0NjI5LC04MD
-kzMjcxMzUsMTIwNjkwNDcxOSwxMTI5NTkzNzIsLTExNDcwMzQ3
-MTEsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX0=
+eyJoaXN0b3J5IjpbLTE2Nzg3MDcxMDgsMTM5NzM4NDYyOSwtOD
+A5MzI3MTM1LDEyMDY5MDQ3MTksMTEyOTU5MzcyLC0xMTQ3MDM0
+NzExLC0xMDc1MTUyNiwtMTg5MzEzNzA1Ml19
 -->
