@@ -60,10 +60,11 @@ make -j`nproc`
 *最後編輯時間:2019/5/10*
 
 <!--tags:
-環境架設, 姿態估計
+環境架設, 姿態估計, 機器學習
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5a
-e/5oWL5Lyw6KiIJ1xuIiwiaGlzdG9yeSI6Wy0xMTI2NTkyODI2
-LC0xMTg4MTE2NjY2LDUwOTUwOTYwOSwtMTgxNjM1NTk2N119
+e/5oWL5Lyw6KiILCDmqZ/lmajlrbjnv5InXG4iLCJoaXN0b3J5
+IjpbLTgzOTA4NDI1MCwtMTEyNjU5MjgyNiwtMTE4ODExNjY2Ni
+w1MDk1MDk2MDksLTE4MTYzNTU5NjddfQ==
 -->
