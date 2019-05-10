@@ -7,7 +7,7 @@
 git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
 ```
 
-然後我們移動到 openpose資料夾底下，進行下面的指令操作。
+然後我們移動到 openpose資料夾底下，進行下面的指令操作
 # Prerequisites
 這邊採用Cmake GUI的方式安裝。筆者另外有建立OpenPose的docker版本則是使用 command line 的方式安裝。
 **安裝 Cmake GUI**
@@ -49,6 +49,6 @@ git submodle update
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDE2MDc4NiwtMTE0NzAzNDcxMSwtMT
-A3NTE1MjYsLTE4OTMxMzcwNTJdfQ==
+eyJoaXN0b3J5IjpbMTEyOTU5MzcyLC0xMTQ3MDM0NzExLC0xMD
+c1MTUyNiwtMTg5MzEzNzA1Ml19
 -->
