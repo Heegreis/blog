@@ -2,6 +2,10 @@
 [readmore]
 **目錄**  
 [TOC]
+# Clone
+```shell
+git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
+```
 # Prerequisites
 這邊採用Cmake GUI的方式安裝。筆者另外有建立OpenPose的docker版本則是使用 command line 的方式安裝。
 **安裝 Cmake GUI**
@@ -34,5 +38,5 @@ sudo ./scripts/ubuntu/install_cuda.sh
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NjQyMTgzLC0xODkzMTM3MDUyXX0=
+eyJoaXN0b3J5IjpbMTUzNjc3Nzg5NCwtMTg5MzEzNzA1Ml19
 -->
