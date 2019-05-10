@@ -1,5 +1,5 @@
-OpenPose 是一個用來偵測出人體骨架的開源系統，是一種 姿態估計(pose estimation)
-本文的作業系統是 ubuntu 16.04，GPU 版本是 1080 Ti
+本文紀錄安裝 OpenPose 的過程。 是一個用來偵測出人體骨架的開源系統，是一種 姿態估計(pose estimation)。
+的作業系統是 ubuntu 16.04，GPU 版本是 1080 Ti
 [readmore]
 **目錄**  
 [TOC]
@@ -59,5 +59,5 @@ make -j`nproc`
 [^2]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2019/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYzNTU5NjddfQ==
+eyJoaXN0b3J5IjpbLTI0MDgxODY2NCwtMTgxNjM1NTk2N119
 -->
