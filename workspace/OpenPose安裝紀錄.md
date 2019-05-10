@@ -47,9 +47,10 @@ git submodle update
 - 然後按下左下方的 `Configure` 按鈕
 - 出現是否建立資料夾就選yes，其他照預設的選擇
 
-等跑完後，出現 `Configuring done` 表示成功
+等跑完後，出現 `Configuring done` 表示成功  
+
 ## OpenPose Building
-```
+```shell
 cd build/
 make -j`nproc`
 ```
@@ -61,7 +62,7 @@ make -j`nproc`
 [^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTc3OTE2NCwtODA5MzI3MTM1LDEyMD
-Y5MDQ3MTksMTEyOTU5MzcyLC0xMTQ3MDM0NzExLC0xMDc1MTUy
-NiwtMTg5MzEzNzA1Ml19
+eyJoaXN0b3J5IjpbLTE3MTU5NTgzNzYsLTgwOTMyNzEzNSwxMj
+A2OTA0NzE5LDExMjk1OTM3MiwtMTE0NzAzNDcxMSwtMTA3NTE1
+MjYsLTE4OTMxMzcwNTJdfQ==
 -->
