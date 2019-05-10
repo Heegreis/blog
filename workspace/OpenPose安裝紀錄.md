@@ -40,7 +40,8 @@ sudo apt-get install libopencv-dev
 git submodule init
 git submodle update
 ```
-開啟 Cmake
+## OpenPose Configuration
+開啟 Cmake 的 GUI
 
 # 參考資料
 [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
@@ -49,7 +50,7 @@ git submodle update
 [^2]:[Ubuntu Cmake-gui error while getting default Caffe · Issue #423 · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/issues/423)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE5NTI5NzMsMTIwNjkwNDcxOSwxMT
-I5NTkzNzIsLTExNDcwMzQ3MTEsLTEwNzUxNTI2LC0xODkzMTM3
-MDUyXX0=
+eyJoaXN0b3J5IjpbLTc2MTI4Njc2OSwxMjA2OTA0NzE5LDExMj
+k1OTM3MiwtMTE0NzAzNDcxMSwtMTA3NTE1MjYsLTE4OTMxMzcw
+NTJdfQ==
 -->
