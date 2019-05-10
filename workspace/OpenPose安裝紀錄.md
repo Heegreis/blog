@@ -8,7 +8,7 @@ git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
 ```
 然後我們移動到 openpose資料夾底下，進行下面的指令操作
 # Prerequisites
-[^1]筆者使用Cmake GUI的方式安裝，遇到很多錯誤，所以就改用 command line 的方式安裝。
+[^1]筆者曾經使用Cmake GUI的方式安裝，遇到很多錯誤，所以就改用 command line 的方式安裝。
 
 **安裝 CUDA 8**
 ```shell
@@ -53,8 +53,8 @@ make -j`nproc`
 [^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mjc2ODc2LC0xNjc4NzA3MTA4LDEzOT
-czODQ2MjksLTgwOTMyNzEzNSwxMjA2OTA0NzE5LDExMjk1OTM3
-MiwtMTE0NzAzNDcxMSwtMTA3NTE1MjYsLTE4OTMxMzcwNTJdfQ
-==
+eyJoaXN0b3J5IjpbMTQwODc0ODExOSwtMTY3ODcwNzEwOCwxMz
+k3Mzg0NjI5LC04MDkzMjcxMzUsMTIwNjkwNDcxOSwxMTI5NTkz
+NzIsLTExNDcwMzQ3MTEsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX
+0=
 -->
