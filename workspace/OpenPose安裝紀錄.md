@@ -47,10 +47,11 @@ Building
 make -j`nproc`
 ```
 # 測試 demo
-回到OpenPose 專案的根目錄
+回到OpenPose 專案的根目錄，執行demo
+```shell
+./build/examples/openpose/openpose.bin --video examples/media/video.avi
 ```
-
-```
+成功的話就會跑出抓取骨ㄐㄧㄚ
 # 參考資料
 [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
@@ -59,7 +60,7 @@ make -j`nproc`
 [^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzI3NTIxMCwtMTY3ODcwNzEwOCwxMz
+eyJoaXN0b3J5IjpbMTUzMjQ2NTc0NCwtMTY3ODcwNzEwOCwxMz
 k3Mzg0NjI5LC04MDkzMjcxMzUsMTIwNjkwNDcxOSwxMTI5NTkz
 NzIsLTExNDcwMzQ3MTEsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX
 0=
