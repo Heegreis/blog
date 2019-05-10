@@ -1,4 +1,4 @@
-本文的作業系統是 ubuntu 16.04，並且安裝的是 GPU 版本
+本文的作業系統是 ubuntu 16.04，GPU 版本是 1080 ti
 [readmore]
 **目錄**  
 [TOC]
@@ -60,8 +60,8 @@ make -j`nproc`
 [^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjQzMjA1OCwtMTY3ODcwNzEwOCwxMz
-k3Mzg0NjI5LC04MDkzMjcxMzUsMTIwNjkwNDcxOSwxMTI5NTkz
-NzIsLTExNDcwMzQ3MTEsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX
-0=
+eyJoaXN0b3J5IjpbLTE3Mzk3MjY3MzYsMTAyMjQzMjA1OCwtMT
+Y3ODcwNzEwOCwxMzk3Mzg0NjI5LC04MDkzMjcxMzUsMTIwNjkw
+NDcxOSwxMTI5NTkzNzIsLTExNDcwMzQ3MTEsLTEwNzUxNTI2LC
+0xODkzMTM3MDUyXX0=
 -->
