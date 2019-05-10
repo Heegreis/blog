@@ -1,8 +1,8 @@
-本文的作業系統是 ubuntu 16.04
+本文的作業系統是 ubuntu 16.04，並且安裝的是 GPU 版本
 [readmore]
 **目錄**  
 [TOC]
-# 標題一
+# 安裝需求
 
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
@@ -22,5 +22,5 @@
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3OTgxNjg5LC0xODkzMTM3MDUyXX0=
+eyJoaXN0b3J5IjpbMTUwNzE2MTU3MywtMTg5MzEzNzA1Ml19
 -->
