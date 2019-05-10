@@ -19,7 +19,7 @@ sudo ./scripts/ubuntu/install_cuda.sh
 ```shell
 sudo ./scripts/ubuntu/install_cudnn.sh
 ```
-但在嘗試透過 Cmake GUI 安裝時，遇到錯誤有嘗試改 cuDNN 到 7.多版
+但在嘗試透過 Cmake GUI 安裝時，遇到錯誤有嘗試改 cuDNN 到 7.多版，就沒在改回 cuDNN 5.1 版了，但使用 cuDNN 5.1 應該不會有錯。
 
 **安裝 Caffe 的 prerequisites**
 ```shell
@@ -54,8 +54,8 @@ make -j`nproc`
 [^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjExMDI4MDUsLTE2Nzg3MDcxMDgsMT
-M5NzM4NDYyOSwtODA5MzI3MTM1LDEyMDY5MDQ3MTksMTEyOTU5
-MzcyLC0xMTQ3MDM0NzExLC0xMDc1MTUyNiwtMTg5MzEzNzA1Ml
-19
+eyJoaXN0b3J5IjpbNzc2MjQzOTY5LC0xNjc4NzA3MTA4LDEzOT
+czODQ2MjksLTgwOTMyNzEzNSwxMjA2OTA0NzE5LDExMjk1OTM3
+MiwtMTE0NzAzNDcxMSwtMTA3NTE1MjYsLTE4OTMxMzcwNTJdfQ
+==
 -->
