@@ -2,8 +2,9 @@
 [readmore]
 **目錄**  
 [TOC]
-# 安裝需求
-
+# Prerequisites
+這邊採用Cmake GUI的方式安裝
+## Cmake
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 
@@ -22,5 +23,5 @@
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzE2MTU3MywtMTg5MzEzNzA1Ml19
+eyJoaXN0b3J5IjpbMTE3MTAxNzkzMywtMTg5MzEzNzA1Ml19
 -->
