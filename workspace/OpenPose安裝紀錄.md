@@ -34,7 +34,7 @@ sudo apt-get install libopencv-dev
 以便系統可以找到 CUDA
 # 安裝
 ## OpenPose Configuration and Building
-[^3]
+[^2]
 Configuration
 ```shell
 mkdir build
@@ -56,12 +56,11 @@ make -j`nproc`
 [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 [^1]: [openpose/prerequisites.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/prerequisites.md)
-[^2]:[Ubuntu Cmake-gui error while getting default Caffe · Issue #423 · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/issues/423)
-[^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
+[^2]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTI2MTE3MSwtMTczOTcyNjczNiwxMD
-IyNDMyMDU4LC0xNjc4NzA3MTA4LDEzOTczODQ2MjksLTgwOTMy
-NzEzNSwxMjA2OTA0NzE5LDExMjk1OTM3MiwtMTE0NzAzNDcxMS
-wtMTA3NTE1MjYsLTE4OTMxMzcwNTJdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjk4Nzc2MTEsLTE3Mzk3MjY3MzYsMT
+AyMjQzMjA1OCwtMTY3ODcwNzEwOCwxMzk3Mzg0NjI5LC04MDkz
+MjcxMzUsMTIwNjkwNDcxOSwxMTI5NTkzNzIsLTExNDcwMzQ3MT
+EsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX0=
 -->
