@@ -35,14 +35,14 @@ sudo apt-get install libopencv-dev
 以便系統可以找到 CUDA
 # 安裝
 ## OpenPose Configuration and Building
-[^2]Configuration
+[^2]**Configuration**
 ```shell
 mkdir build
 cd build
 cmake ..
 ```
 
-Building
+**Building**
 ```shell
 make -j`nproc`
 ```
@@ -64,6 +64,6 @@ make -j`nproc`
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5a
-e/5oWL5Lyw6KiIJ1xuIiwiaGlzdG9yeSI6Wy0xMTg4MTE2NjY2
-LDUwOTUwOTYwOV19
+e/5oWL5Lyw6KiIJ1xuIiwiaGlzdG9yeSI6Wy0xMTI2NTkyODI2
+LC0xMTg4MTE2NjY2LDUwOTUwOTYwOV19
 -->
