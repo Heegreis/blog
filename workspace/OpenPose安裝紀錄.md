@@ -18,12 +18,20 @@ sudo apt-get install cmake-qt-gui
 sudo ./scripts/ubuntu/install_cuda.sh
 ```
 
-**安裝cuDNN 5.1**
+**安裝 cuDNN 5.1**
 ```shell
 sudo ./scripts/ubuntu/install_cudnn.sh
 ```
 
-**安裝Caffe prerequisites**
+**安裝 Caffe 的 prerequisites**
+```shell
+sudo bash ./scripts/ubuntu/install_deps.sh
+```
+
+**安裝 opencv**
+```shell
+sudo apt-get install libopencv-dev
+```
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 
@@ -42,6 +50,6 @@ sudo ./scripts/ubuntu/install_cudnn.sh
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU2Njg0MTYsLTEwNzUxNTI2LC0xOD
-kzMTM3MDUyXX0=
+eyJoaXN0b3J5IjpbMTc5MDg2NzQ3LC0xMDc1MTUyNiwtMTg5Mz
+EzNzA1Ml19
 -->
