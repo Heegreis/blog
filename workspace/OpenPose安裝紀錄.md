@@ -53,9 +53,10 @@ git submodle update
 
 [^1]: [openpose/prerequisites.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/prerequisites.md)
 [^2]:[Ubuntu Cmake-gui error while getting default Caffe · Issue #423 · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/issues/423)
+[^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose]()
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjI3NzA2OCwxMjA2OTA0NzE5LDExMj
+eyJoaXN0b3J5IjpbLTgwOTMyNzEzNSwxMjA2OTA0NzE5LDExMj
 k1OTM3MiwtMTE0NzAzNDcxMSwtMTA3NTE1MjYsLTE4OTMxMzcw
 NTJdfQ==
 -->
