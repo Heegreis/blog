@@ -12,13 +12,15 @@ git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
 ```shell
 sudo apt-get install cmake-qt-gui
 ```
+
 **安裝 CUDA 8**
 ```shell
 sudo ./scripts/ubuntu/install_cuda.sh
 ```
-**安裝cuDNN 5.1**
-```
 
+**安裝cuDNN 5.1**
+```shell
+sudo ./scripts/ubuntu/install_cudnn.sh
 ```
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
@@ -38,5 +40,5 @@ sudo ./scripts/ubuntu/install_cuda.sh
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjc3Nzg5NCwtMTg5MzEzNzA1Ml19
+eyJoaXN0b3J5IjpbLTEwNzUxNTI2LC0xODkzMTM3MDUyXX0=
 -->
