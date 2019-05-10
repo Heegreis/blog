@@ -34,8 +34,7 @@ sudo apt-get install libopencv-dev
 以便系統可以找到 CUDA
 # 安裝
 ## OpenPose Configuration and Building
-[^2]
-Configuration
+[^2]Configuration
 ```shell
 mkdir build
 cd build
@@ -59,8 +58,8 @@ make -j`nproc`
 [^2]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk4Nzc2MTEsLTE3Mzk3MjY3MzYsMT
-AyMjQzMjA1OCwtMTY3ODcwNzEwOCwxMzk3Mzg0NjI5LC04MDkz
-MjcxMzUsMTIwNjkwNDcxOSwxMTI5NTkzNzIsLTExNDcwMzQ3MT
-EsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX0=
+eyJoaXN0b3J5IjpbMTE1ODQyMjI0NywtMTczOTcyNjczNiwxMD
+IyNDMyMDU4LC0xNjc4NzA3MTA4LDEzOTczODQ2MjksLTgwOTMy
+NzEzNSwxMjA2OTA0NzE5LDExMjk1OTM3MiwtMTE0NzAzNDcxMS
+wtMTA3NTE1MjYsLTE4OTMxMzcwNTJdfQ==
 -->
