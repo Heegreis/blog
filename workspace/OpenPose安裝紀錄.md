@@ -34,6 +34,7 @@ sudo bash ./scripts/ubuntu/install_deps.sh
 sudo apt-get install libopencv-dev
 ```
 # 安裝
+**事先的錯誤排除**
 先確認 OpenPose 專案下的 3rdparty/caffe 資料夾是不是空的，如果是空的則執行以下指令
 ```shell
 git submodule init
@@ -45,9 +46,10 @@ git submodle update
 [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 [^1]: [openpose/prerequisites.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/prerequisites.md)
-
+[^]
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjkwNDcxOSwxMTI5NTkzNzIsLTExND
-cwMzQ3MTEsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX0=
+eyJoaXN0b3J5IjpbLTI0ODAwOTY4NywxMjA2OTA0NzE5LDExMj
+k1OTM3MiwtMTE0NzAzNDcxMSwtMTA3NTE1MjYsLTE4OTMxMzcw
+NTJdfQ==
 -->
