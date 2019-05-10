@@ -35,7 +35,7 @@ sudo bash ./scripts/ubuntu/install_deps.sh
 sudo apt-get install libopencv-dev
 ```
 # 安裝
-先確認 OpenPose 專案下的 3rdparty/caffe 資料夾是不是空的，如果是空的擇執行以下指令
+先確認 OpenPose 專案下的 3rdparty/caffe 資料夾是不是空的，如果是空的則執行以下指令
 ```shell
 git submodule init
 git submodle update
@@ -49,6 +49,6 @@ git submodle update
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTU5MzcyLC0xMTQ3MDM0NzExLC0xMD
-c1MTUyNiwtMTg5MzEzNzA1Ml19
+eyJoaXN0b3J5IjpbLTIyODM3NjA1MiwxMTI5NTkzNzIsLTExND
+cwMzQ3MTEsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX0=
 -->
