@@ -57,6 +57,7 @@ make -j`nproc`
 
 [^1]: [openpose/prerequisites.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/prerequisites.md)
 [^2]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
+
 *最後編輯時間:2019/5/10*
 
 <!--tags:
@@ -65,6 +66,6 @@ make -j`nproc`
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5a
 e/5oWL5Lyw6KiILCDmqZ/lmajlrbjnv5InXG4iLCJoaXN0b3J5
-IjpbLTgzOTA4NDI1MCwtMTEyNjU5MjgyNiwtMTE4ODExNjY2Ni
+IjpbLTkyODU5OTUzMiwtMTEyNjU5MjgyNiwtMTE4ODExNjY2Ni
 w1MDk1MDk2MDldfQ==
 -->
