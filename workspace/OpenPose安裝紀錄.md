@@ -5,6 +5,13 @@
 # Prerequisites
 這邊採用Cmake GUI的方式安裝。筆者另外有建立OpenPose的docker版本則是使用 command line 的方式安裝。
 ## Cmake
+```
+sudo apt-get install cmake-qt-gui
+```
+```
+sudo ./scripts/ubuntu/install_cuda.sh
+```
+
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 
@@ -23,5 +30,5 @@
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjQwOTQ1OSwtMTg5MzEzNzA1Ml19
+eyJoaXN0b3J5IjpbMTk4OTkzNzAwNSwtMTg5MzEzNzA1Ml19
 -->
