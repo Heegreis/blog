@@ -6,7 +6,6 @@
 ```shell
 git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
 ```
-
 然後我們移動到 openpose資料夾底下，進行下面的指令操作
 # Prerequisites
 這邊採用Cmake GUI的方式安裝。筆者另外有建立OpenPose的docker版本則是使用 command line 的方式安裝。
@@ -43,12 +42,12 @@ git submodle update
 開啟 Cmake
 
 # 參考資料
-[Installing TensorFlow on Windows | TensorFlow](https://www.tensorflow.org/install/install_windows)
+[CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-[^1]: [被引用連結說明:](http://tieba.baidu.com/p/4565248851)
+[^1]: [openpose/prerequisites.md at master · CMU-Perceptual-Computing-Lab/openpose](http://tieba.baidu.com/p/4565248851)
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODM3NjA1MiwxMTI5NTkzNzIsLTExND
+eyJoaXN0b3J5IjpbMTcwMTcyODc2OCwxMTI5NTkzNzIsLTExND
 cwMzQ3MTEsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX0=
 -->
