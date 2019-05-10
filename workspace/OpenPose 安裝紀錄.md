@@ -3,7 +3,7 @@ OpenPose 是一個用來偵測出人體骨架的開源系統，是一種 姿態�
 [readmore]
 **目錄**  
 [TOC]
-# Clone
+# Clone 專案
 ```shell
 git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
 ```
@@ -59,5 +59,5 @@ make -j`nproc`
 [^2]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2019/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ1MTgzNTldfQ==
+eyJoaXN0b3J5IjpbLTE4MTYzNTU5NjddfQ==
 -->
