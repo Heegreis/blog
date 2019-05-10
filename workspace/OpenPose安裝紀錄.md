@@ -41,7 +41,7 @@ git submodule init
 git submodle update
 ```
 ## OpenPose Configuration
-開啟 Cmake 的 GUI 後
+[^3]開啟 Cmake 的 GUI 後
 - 在上方的 `Where is the source code` 欄位選擇 openpose 資料夾  
 - 在 `Where to build the binaries` 欄位選擇 openpose 資料夾，並在後面加上 `/build`  
 - 然後按下左下方的 `Configure` 按鈕
@@ -53,10 +53,10 @@ git submodle update
 
 [^1]: [openpose/prerequisites.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/prerequisites.md)
 [^2]:[Ubuntu Cmake-gui error while getting default Caffe · Issue #423 · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/issues/423)
-[^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose]()
+[^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTMyNzEzNSwxMjA2OTA0NzE5LDExMj
-k1OTM3MiwtMTE0NzAzNDcxMSwtMTA3NTE1MjYsLTE4OTMxMzcw
-NTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MjMxNDAxMzYsLTgwOTMyNzEzNSwxMj
+A2OTA0NzE5LDExMjk1OTM3MiwtMTE0NzAzNDcxMSwtMTA3NTE1
+MjYsLTE4OTMxMzcwNTJdfQ==
 -->
