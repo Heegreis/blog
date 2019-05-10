@@ -48,6 +48,11 @@ git submodle update
 - 出現是否建立資料夾就選yes，其他照預設的選擇
 
 等跑完後，出現 `Configuring done` 表示成功
+## OpenPose Building
+```
+cd build/
+make -j`nproc`
+```
 # 參考資料
 [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
@@ -56,7 +61,7 @@ git submodle update
 [^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMxNDAxMzYsLTgwOTMyNzEzNSwxMj
-A2OTA0NzE5LDExMjk1OTM3MiwtMTE0NzAzNDcxMSwtMTA3NTE1
-MjYsLTE4OTMxMzcwNTJdfQ==
+eyJoaXN0b3J5IjpbMjA5NTc3OTE2NCwtODA5MzI3MTM1LDEyMD
+Y5MDQ3MTksMTEyOTU5MzcyLC0xMTQ3MDM0NzExLC0xMDc1MTUy
+NiwtMTg5MzEzNzA1Ml19
 -->
