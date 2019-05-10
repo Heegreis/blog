@@ -19,7 +19,7 @@ sudo ./scripts/ubuntu/install_cuda.sh
 ```shell
 sudo ./scripts/ubuntu/install_cudnn.sh
 ```
-但在嘗試透過 Cmake GUI 安裝時，遇到錯誤有嘗試改 cuDNN 到 7.多版，就沒在改回 cuDNN 5.1 版了，但使用 cuDNN 5.1 應該不會有錯。
+在嘗試透過 Cmake GUI 安裝時，遇到錯誤有改 cuDNN 到 7.多版，但就沒在改回 cuDNN 5.1 版了，但使用 cuDNN 5.1 應該不會有錯。
 
 **安裝 Caffe 的 prerequisites**
 ```shell
@@ -46,6 +46,11 @@ Building
 ```shell
 make -j`nproc`
 ```
+# 測試 demo
+回到OpenPose 專案的根目錄
+```
+
+```
 # 參考資料
 [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
@@ -54,8 +59,8 @@ make -j`nproc`
 [^3]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MjQzOTY5LC0xNjc4NzA3MTA4LDEzOT
-czODQ2MjksLTgwOTMyNzEzNSwxMjA2OTA0NzE5LDExMjk1OTM3
-MiwtMTE0NzAzNDcxMSwtMTA3NTE1MjYsLTE4OTMxMzcwNTJdfQ
-==
+eyJoaXN0b3J5IjpbMTk4MzI3NTIxMCwtMTY3ODcwNzEwOCwxMz
+k3Mzg0NjI5LC04MDkzMjcxMzUsMTIwNjkwNDcxOSwxMTI5NTkz
+NzIsLTExNDcwMzQ3MTEsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX
+0=
 -->
