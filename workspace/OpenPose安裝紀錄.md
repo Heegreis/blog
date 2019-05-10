@@ -4,11 +4,12 @@
 [TOC]
 # Prerequisites
 這邊採用Cmake GUI的方式安裝。筆者另外有建立OpenPose的docker版本則是使用 command line 的方式安裝。
-## Cmake
-```
+**安裝 Cmake GUI**
+```shell
 sudo apt-get install cmake-qt-gui
 ```
-```
+**安裝 cuda 8.0**
+```shell
 sudo ./scripts/ubuntu/install_cuda.sh
 ```
 
@@ -30,5 +31,6 @@ sudo ./scripts/ubuntu/install_cuda.sh
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTkzNzAwNSwtMTg5MzEzNzA1Ml19
+eyJoaXN0b3J5IjpbLTE0NTAwNTE4NDcsLTE4OTMxMzcwNTJdfQ
+==
 -->
