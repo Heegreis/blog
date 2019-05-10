@@ -8,7 +8,7 @@ git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
 ```
 然後我們移動到 openpose資料夾底下，進行下面的指令操作
 # Prerequisites
-這邊採用Cmake GUI的方式安裝。筆者另外有建立OpenPose的docker版本則是使用 command line 的方式安裝。
+[^1]這邊採用Cmake GUI的方式安裝。筆者另外有建立OpenPose的docker版本則是使用 command line 的方式安裝。
 **安裝 Cmake GUI**
 ```shell
 sudo apt-get install cmake-qt-gui
@@ -48,6 +48,6 @@ git submodle update
 
 *最後編輯時間:2018/5/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTY2NTI0OCwxMTI5NTkzNzIsLTExND
+eyJoaXN0b3J5IjpbMTIwNjkwNDcxOSwxMTI5NTkzNzIsLTExND
 cwMzQ3MTEsLTEwNzUxNTI2LC0xODkzMTM3MDUyXX0=
 -->
