@@ -28,11 +28,11 @@ pip3 install -r requirements.txt
 ```
 # 安裝
 
-不知道為什麼 ``python setup.py install``
+不知道為什麼 ``python setup.py install`` 會有權限問題，各位在安裝時可以試試看不加 ``sudo`` 能不能安裝
 ```shell
 cd torchlight; sudo python3 setup.py install; cd ..
 ```
-
+# 取得預訓練ㄇㄛ
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
@@ -42,7 +42,7 @@ cd torchlight; sudo python3 setup.py install; cd ..
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE1Mzc3NzA5Mzks
-NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
-QxMzRdfQ==
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzExOTgwMTYwNCw1
+Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzND
+EzNF19
 -->
