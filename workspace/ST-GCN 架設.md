@@ -21,7 +21,7 @@ pip install torch==0.4.0 -f https://download.pytorch.org/whl/cu80/stable
 sudo apt-get install ffmpeg
 ```
 
-
+**其他 Python liberties**
 # 架設
 
 
@@ -34,8 +34,8 @@ sudo apt-get install ffmpeg
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzExMzIxMTQ2ODMs
-NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
-QxMzQsMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNjMxNTM3Nywx
-Njk2OTI0MDk4XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzMyMDA4NzUzNCw1
+Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzND
+EzNCwxNjU0MTM1MDE5LC05NTMyMzQ4NDUsOTI2MzE1Mzc3LDE2
+OTY5MjQwOThdfQ==
 -->
