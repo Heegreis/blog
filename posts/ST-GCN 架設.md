@@ -8,7 +8,7 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 **目錄**
 [TOC]
 # Prerequisites
-**PyTorch(0.4.0)
+**PyTorch(0.4.0)**
 ```shell
 
 ```
@@ -24,6 +24,6 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzI2NTc1ODYwMiwt
-Mjk3OTU5ODEzLC02OTI4MzQxMzRdfQ==
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzUzNzYzMDQ3NCwy
+NjU3NTg2MDIsLTI5Nzk1OTgxMywtNjkyODM0MTM0XX0=
 -->
