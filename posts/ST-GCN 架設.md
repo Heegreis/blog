@@ -27,8 +27,10 @@ cd st-gcn
 pip3 install -r requirements.txt
 ```
 # 安裝
-```
-cd torchlight; python3 setup.py install; cd ..
+
+埠到位什麼
+```shell
+cd torchlight; sudo python3 setup.py install; cd ..
 ```
 
 # 參考資料
@@ -40,7 +42,7 @@ cd torchlight; python3 setup.py install; cd ..
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xMTc4MTAzMDc0
-LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywtNjkyOD
-M0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzI3OTUwNDc4MCw1
+Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzND
+EzNF19
 -->
