@@ -5,8 +5,13 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 
 此紀錄尚未成功，若有進度會隨時更新本文，若有架設成功的案例歡迎分享，謝謝。
 [readmore]
-# 目錄
+**目錄**
 [TOC]
+# Prerequisites
+**PyTorch(0.4.0)
+```shell
+
+```
 # 架設
 
 
@@ -19,7 +24,7 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0yOTc5NTk4MTMs
-LTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NTMyMzQ4NDUsOTI2Mz
-E1Mzc3LDE2OTY5MjQwOThdfQ==
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzI2NTc1ODYwMiwt
+Mjk3OTU5ODEzLC02OTI4MzQxMzQsMTY1NDEzNTAxOSwtOTUzMj
+M0ODQ1LDkyNjMxNTM3NywxNjk2OTI0MDk4XX0=
 -->
