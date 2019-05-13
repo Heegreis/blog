@@ -42,7 +42,7 @@ python3 main.py demo --openpose <path to openpose build directory> [--video <pat
 ```
 
 ```shell
-python3 main.py demo --openpose /home/brian/Desktop/paperProject/openpose/build [--video <path to your video> --device <gpu0> <gpu1>]
+python3 main.py demo --openpose /home/brian/Desktop/paperProject/openpose/ [--video <path to your video> --device <gpu0> <gpu1>]
 ```
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
@@ -53,7 +53,7 @@ python3 main.py demo --openpose /home/brian/Desktop/paperProject/openpose/build 
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0yMTA0MjU3NjEx
-LDE5NzgxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OT
-U5ODEzLC02OTI4MzQxMzRdfQ==
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzI3NDYzNDM4Mywt
+MjEwNDI1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NT
+g2MDIsLTI5Nzk1OTgxMywtNjkyODM0MTM0XX0=
 -->
