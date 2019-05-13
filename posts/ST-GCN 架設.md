@@ -12,6 +12,16 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 ```shell
 pip install torch==0.4.0 -f https://download.pytorch.org/whl/cu80/stable
 ```
+
+**OpenPose**  
+已安裝
+
+**FFmpeg**  
+```shell
+sudo apt-get install ffmpeg
+```
+
+
 # 架設
 
 
@@ -24,7 +34,7 @@ pip install torch==0.4.0 -f https://download.pytorch.org/whl/cu80/stable
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzI0MTAzNDc2Miw1
-Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzND
-EzNF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzExMzIxMTQ2ODMs
+NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
+QxMzRdfQ==
 -->
