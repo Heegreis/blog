@@ -33,8 +33,12 @@ pip3 install -r requirements.txt
 cd torchlight; sudo python3 setup.py install; cd ..
 ```
 # 下載預訓練模型權重
-```
+```shell
 bash tools/get_models.sh
+```
+# 測試demo
+```shell
+python main.py demo --openpose <path to openpose build directory> [--video <path to your video> --device <gpu0> <gpu1>]
 ```
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
@@ -45,8 +49,8 @@ bash tools/get_models.sh
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE5NzgxMjUwOTgs
-NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
-QxMzQsMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNjMxNTM3Nywx
-Njk2OTI0MDk4XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzIwNDQxNTM3MTIs
+MTk3ODEyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NT
+k4MTMsLTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NTMyMzQ4NDUs
+OTI2MzE1Mzc3LDE2OTY5MjQwOThdfQ==
 -->
