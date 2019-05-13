@@ -24,7 +24,7 @@ sudo apt-get install ffmpeg
 **其他 Python liberties**
 ```
 cd st-gcn
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 # 架設
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE4MjQ2NjQwNDAs
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEyNDIwNDU1OTMs
 NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
 QxMzQsMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNjMxNTM3Nywx
 Njk2OTI0MDk4XX0=
