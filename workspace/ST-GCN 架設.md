@@ -26,8 +26,10 @@ sudo apt-get install ffmpeg
 cd st-gcn
 pip3 install -r requirements.txt
 ```
-# 架設
-
+# 安裝
+```
+cd torchlight; python3 setup.py install; cd ..
+```
 
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
@@ -38,8 +40,8 @@ pip3 install -r requirements.txt
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEyNDIwNDU1OTMs
-NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
-QxMzQsMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNjMxNTM3Nywx
-Njk2OTI0MDk4XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xMTc4MTAzMDc0
+LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywtNjkyOD
+M0MTM0LDE2NTQxMzUwMTksLTk1MzIzNDg0NSw5MjYzMTUzNzcs
+MTY5NjkyNDA5OF19
 -->
