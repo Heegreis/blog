@@ -32,7 +32,10 @@ pip3 install -r requirements.txt
 ```shell
 cd torchlight; sudo python3 setup.py install; cd ..
 ```
-# 取得預訊
+# 下載預訓練模型權重
+```
+bash tools/get_models.sh
+```
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
@@ -42,8 +45,8 @@ cd torchlight; sudo python3 setup.py install; cd ..
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xMzQ2MDY2MzI1
-LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywtNjkyOD
-M0MTM0LDE2NTQxMzUwMTksLTk1MzIzNDg0NSw5MjYzMTUzNzcs
-MTY5NjkyNDA5OF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE5NzgxMjUwOTgs
+NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
+QxMzQsMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNjMxNTM3Nywx
+Njk2OTI0MDk4XX0=
 -->
