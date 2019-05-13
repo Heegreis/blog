@@ -28,7 +28,7 @@ pip3 install -r requirements.txt
 ```
 # 安裝
 
-埠到位什麼
+不知道為什麼 ``python setup.py install``
 ```shell
 cd torchlight; sudo python3 setup.py install; cd ..
 ```
@@ -42,7 +42,7 @@ cd torchlight; sudo python3 setup.py install; cd ..
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzI3OTUwNDc4MCw1
-Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzND
-EzNF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE1Mzc3NzA5Mzks
+NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
+QxMzRdfQ==
 -->
