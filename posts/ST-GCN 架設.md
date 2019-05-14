@@ -12,7 +12,11 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 ```shell
 pip install torch==0.4.0 -f https://download.pytorch.org/whl/cu80/stable
 ```
-也要安裝torchvision
+
+也要安裝 torchvision
+```shell
+pip3 install torchvision
+```
 
 **OpenPose**  
 已安裝
@@ -62,8 +66,8 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xNTQzNjczNTg2
-LDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MTI1MDk4LDUzNz
-YzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywtNjkyODM0MTM0
-XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzI5OTA0ODA4Mywy
+NzQ2MzQzODMsLTIxMDQyNTc2MTEsMTk3ODEyNTA5OCw1Mzc2Mz
+A0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzNDEzNF19
+
 -->
