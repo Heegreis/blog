@@ -47,8 +47,9 @@ python3 main.py demo --openpose /home/brian/Desktop/paperProject/openpose/ [--vi
 # 重新訓練模型
 下載 Kinetics-skeleton 資料，並解壓縮。然後執行以下指令
 ```shell
-
+python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 ```
+
 
 
 # 參考資料
@@ -60,8 +61,8 @@ python3 main.py demo --openpose /home/brian/Desktop/paperProject/openpose/ [--vi
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wzc5NzI4NzUyMiwy
-NzQ2MzQzODMsLTIxMDQyNTc2MTEsMTk3ODEyNTA5OCw1Mzc2Mz
-A0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzNDEzNF19
-
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzExNzcxNDk0OTYs
+Mjc0NjM0MzgzLC0yMTA0MjU3NjExLDE5NzgxMjUwOTgsNTM3Nj
+MwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4MzQxMzRd
+fQ==
 -->
