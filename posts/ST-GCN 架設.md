@@ -44,6 +44,13 @@ python3 main.py demo --openpose <path to openpose build directory> [--video <pat
 ```shell
 python3 main.py demo --openpose /home/brian/Desktop/paperProject/openpose/ [--video <path to your video> --device <gpu0> <gpu1>]
 ```
+# 重新訓練模型
+下載 Kinetics-skeleton 資料，並解壓縮。然後執行以下指令
+```shell
+
+```
+
+
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
@@ -53,7 +60,8 @@ python3 main.py demo --openpose /home/brian/Desktop/paperProject/openpose/ [--vi
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzI3NDYzNDM4Mywt
-MjEwNDI1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NT
-g2MDIsLTI5Nzk1OTgxMywtNjkyODM0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wzc5NzI4NzUyMiwy
+NzQ2MzQzODMsLTIxMDQyNTc2MTEsMTk3ODEyNTA5OCw1Mzc2Mz
+A0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzNDEzNF19
+
 -->
