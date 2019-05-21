@@ -38,8 +38,10 @@ sphinx-quickstart
 extensions = [
 ]
 ```
-加入 `'sphinx.ext.autodoc'`
-如下所示
+加入 `'sphinx.ext.autodoc'` ，如下所示
+```
+extensions = ['sphinx.ext.autodoc']
+```
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 
@@ -61,6 +63,6 @@ extensions = [
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgxMjE2MjcsMTU0MTYzMjUxMiwtMj
+eyJoaXN0b3J5IjpbLTIwODU4NjExNDAsMTU0MTYzMjUxMiwtMj
 ExODk5MzM1MSwtNjgwNTk5ODE0LC0xODIzMDM5MDE3XX0=
 -->
