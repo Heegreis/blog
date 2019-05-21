@@ -17,9 +17,11 @@ pip install sphinx-rtd-theme
 
 **設定資料夾結構**
 待補
-筆者將原始碼統一放在 `src` 資料夾下
+筆者將原始碼統一放在 `src/` 資料夾下
 
-
+在 `doc/` 資料夾下執行
+```
+```
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 
@@ -41,6 +43,6 @@ pip install sphinx-rtd-theme
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg5OTMzNTEsLTY4MDU5OTgxNCwtMT
-gyMzAzOTAxN119
+eyJoaXN0b3J5IjpbNjQ0MDgxNjI3LC0yMTE4OTkzMzUxLC02OD
+A1OTk4MTQsLTE4MjMwMzkwMTddfQ==
 -->
