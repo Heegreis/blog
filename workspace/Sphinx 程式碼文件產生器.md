@@ -17,7 +17,7 @@ pip install sphinx-rtd-theme
 
 **設定資料夾結構**
 待補
-
+筆者將原始碼這邊
 
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
@@ -40,6 +40,6 @@ pip install sphinx-rtd-theme
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDA5MjAxMywtNjgwNTk5ODE0LC0xOD
+eyJoaXN0b3J5IjpbLTkyMTk1MDg2MCwtNjgwNTk5ODE0LC0xOD
 IzMDM5MDE3XX0=
 -->
