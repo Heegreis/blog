@@ -6,8 +6,13 @@ Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成�
 [Getting Started: Overview & Installing Initial Project — Sphinx Tutorial 1.0 documentation](https://sphinx-tutorial.readthedocs.io/start/)
 
 安裝 Sphinx
+```shell
+pip install sphinx
 ```
 
+可以另外安裝 theme
+```
+pip install sphinx-rtd-theme
 ```
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
@@ -30,5 +35,6 @@ Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成�
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Mjg1NjI5NiwtMTgyMzAzOTAxN119
+eyJoaXN0b3J5IjpbLTE0NzYwNjg0NTgsLTE4MjMwMzkwMTddfQ
+==
 -->
