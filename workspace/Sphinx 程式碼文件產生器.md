@@ -24,8 +24,14 @@ pip install sphinx-rtd-theme
 sphinx-quickstart
 ```
 會產生所需檔案與 `conf.py` ，將該檔案內的
+```python
+# import sys
+# sys.path.insert(0, os.path.abspath('.'))
 ```
-
+取消註解，並修改為
+```
+# import sys
+# sys.path.insert(0, os.path.abspath('.'))
 ```
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
@@ -48,6 +54,6 @@ sphinx-quickstart
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTg0NzExNSwtMjExODk5MzM1MSwtNj
+eyJoaXN0b3J5IjpbMTU0MTYzMjUxMiwtMjExODk5MzM1MSwtNj
 gwNTk5ODE0LC0xODIzMDM5MDE3XX0=
 -->
