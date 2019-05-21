@@ -31,7 +31,7 @@ sphinx-quickstart
 取消註解，並修改為
 ```
 # import sys
-# sys.path.insert(0, os.path.abspath('.'))
+# sys.path.insert(0, os.path.abspath('../src/'))
 ```
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
@@ -54,6 +54,6 @@ sphinx-quickstart
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTYzMjUxMiwtMjExODk5MzM1MSwtNj
-gwNTk5ODE0LC0xODIzMDM5MDE3XX0=
+eyJoaXN0b3J5IjpbLTY0ODQ4MzQ2OCwxNTQxNjMyNTEyLC0yMT
+E4OTkzMzUxLC02ODA1OTk4MTQsLTE4MjMwMzkwMTddfQ==
 -->
