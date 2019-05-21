@@ -42,7 +42,16 @@ extensions = [
 ```
 extensions = ['sphinx.ext.autodoc']
 ```
-## 標題二
+## 引用程式內說明
+範例
+```
+Crawler Python API
+==================
+
+crawler.main
+.. automodule:: crawler.main
+	:members:
+```
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 
 `行內程式碼`
@@ -63,6 +72,6 @@ extensions = ['sphinx.ext.autodoc']
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU4NjExNDAsMTU0MTYzMjUxMiwtMj
-ExODk5MzM1MSwtNjgwNTk5ODE0LC0xODIzMDM5MDE3XX0=
+eyJoaXN0b3J5IjpbMTk3MjE3NjQ5MCwxNTQxNjMyNTEyLC0yMT
+E4OTkzMzUxLC02ODA1OTk4MTQsLTE4MjMwMzkwMTddfQ==
 -->
