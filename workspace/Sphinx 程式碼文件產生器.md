@@ -33,6 +33,13 @@ sphinx-quickstart
 # import sys
 # sys.path.insert(0, os.path.abspath('../src/'))
 ```
+然後在
+```
+extensions = [
+]
+```
+加入 `'sphinx.ext.autodoc'`
+如下所示
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 
@@ -54,6 +61,6 @@ sphinx-quickstart
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODQ4MzQ2OCwxNTQxNjMyNTEyLC0yMT
-E4OTkzMzUxLC02ODA1OTk4MTQsLTE4MjMwMzkwMTddfQ==
+eyJoaXN0b3J5IjpbLTIwMzgxMjE2MjcsMTU0MTYzMjUxMiwtMj
+ExODk5MzM1MSwtNjgwNTk5ODE0LC0xODIzMDM5MDE3XX0=
 -->
