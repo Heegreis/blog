@@ -1,8 +1,8 @@
-Sphinx 是億個用來幫忙在 python 程式中
+Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成文件的工具。
 [readmore]
 **目錄**  
 [TOC]
-# 標題一
+# 下載
 
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
@@ -25,5 +25,5 @@ Sphinx 是億個用來幫忙在 python 程式中
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMwMzkwMTddfQ==
+eyJoaXN0b3J5IjpbNjI1MTA1MDYzLC0xODIzMDM5MDE3XX0=
 -->
