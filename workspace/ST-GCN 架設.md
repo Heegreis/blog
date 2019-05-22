@@ -4,6 +4,8 @@
 GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) for Skeleton-Based Action Recognition in PyTorch](https://github.com/yysijie/st-gcn)
 
 此紀錄尚未成功，若有進度會隨時更新本文，若有架設成功的案例歡迎分享，謝謝。
+
+st-gcn 是運作在 python 3 
 [readmore]
 **目錄**
 [TOC]
@@ -15,7 +17,7 @@ git clone https://github.com/yysijie/st-gcn.git
 # Prerequisites
 **PyTorch(0.4.0)**  
 ```shell
-pip install torch==0.4.0 -f https://download.pytorch.org/whl/cu80/stable
+pip3 install torch==0.4.0 -f https://download.pytorch.org/whl/cu80/stable
 ```
 
 **也要安裝 torchvision**
@@ -71,9 +73,9 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzY4MTk1ODY4Nywx
-NjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MT
-I1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywt
-NjkyODM0MTM0LDE2NTQxMzUwMTksLTk1MzIzNDg0NSw5MjYzMT
-UzNzcsMTY5NjkyNDA5OF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xODMxNDM1Njks
+NjgxOTU4Njg3LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0Mj
+U3NjExLDE5NzgxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwt
+Mjk3OTU5ODEzLC02OTI4MzQxMzQsMTY1NDEzNTAxOSwtOTUzMj
+M0ODQ1LDkyNjMxNTM3NywxNjk2OTI0MDk4XX0=
 -->
