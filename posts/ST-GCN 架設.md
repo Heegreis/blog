@@ -5,7 +5,7 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 
 此紀錄尚未成功，若有進度會隨時更新本文，若有架設成功的案例歡迎分享，謝謝。
 
-st-gcn 是用 python 3 運行，雖然原作者的指令都是用 `python` ，但筆者的 python 預設為 2，所以以下接會ㄊ
+st-gcn 是用 python 3 運行，雖然原作者的指令都是用 `python` ，但筆者的 python 預設為 2，所以以下皆會替換成 `python3` 的指令。
 [readmore]
 **目錄**
 [TOC]
@@ -73,8 +73,8 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xMzI4MDg3MDA1
-LDY4MTk1ODY4Nyw5NDg1NTkwOTksMTYxNzQxOTI4MywyNzQ2Mz
-QzODMsLTIxMDQyNTc2MTEsMTk3ODEyNTA5OCw1Mzc2MzA0NzQs
-MjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzNDEzNF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy03NTY0NDUwNTAs
+NjgxOTU4Njg3LDk0ODU1OTA5OSwxNjE3NDE5MjgzLDI3NDYzND
+M4MywtMjEwNDI1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwy
+NjU3NTg2MDIsLTI5Nzk1OTgxMywtNjkyODM0MTM0XX0=
 -->
