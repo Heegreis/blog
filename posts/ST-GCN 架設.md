@@ -8,6 +8,7 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 **目錄**
 [TOC]
 # Clone
+在想要的目錄下，clone該專案
 ```shell
 git clone https://github.com/yysijie/st-gcn.git
 ```
@@ -70,8 +71,8 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE2MDQ5NjE4MDMs
-OTQ4NTU5MDk5LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0Mj
-U3NjExLDE5NzgxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwt
-Mjk3OTU5ODEzLC02OTI4MzQxMzRdfQ==
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzY4MTk1ODY4Nyw5
+NDg1NTkwOTksMTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNT
+c2MTEsMTk3ODEyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0y
+OTc5NTk4MTMsLTY5MjgzNDEzNF19
 -->
