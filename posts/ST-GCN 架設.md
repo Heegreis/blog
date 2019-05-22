@@ -7,6 +7,10 @@ GitHub: [yysijie/st-gcn: Spatial Temporal Graph Convolutional Networks (ST-GCN) 
 [readmore]
 **目錄**
 [TOC]
+# Clone
+```shell
+git clone https://github.com/yysijie/st-gcn.git
+```
 # Prerequisites
 **PyTorch(0.4.0)**  
 ```shell
@@ -66,8 +70,8 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wzk0ODU1OTA5OSwx
-NjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MT
-I1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywt
-NjkyODM0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE2MDQ5NjE4MDMs
+OTQ4NTU5MDk5LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0Mj
+U3NjExLDE5NzgxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwt
+Mjk3OTU5ODEzLC02OTI4MzQxMzRdfQ==
 -->
