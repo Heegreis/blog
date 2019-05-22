@@ -62,13 +62,13 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 
 *最後編輯時間:2019/5/9*
 <!--tags:
-環境架設, 機器學習, 動作式
+環境架設, 機器學習, 動作識別
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xOTIwOTQ4Nzcx
-LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0MjU3NjExLDE5Nz
-gxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEz
-LC02OTI4MzQxMzQsMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNj
-MxNTM3NywxNjk2OTI0MDk4XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wzk0ODU1OTA5OSwx
+NjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MT
+I1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywt
+NjkyODM0MTM0LDE2NTQxMzUwMTksLTk1MzIzNDg0NSw5MjYzMT
+UzNzcsMTY5NjkyNDA5OF19
 -->
