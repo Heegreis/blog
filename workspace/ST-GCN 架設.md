@@ -22,7 +22,7 @@ pip3 install torch==0.4.0 -f https://download.pytorch.org/whl/cu80/stable
 
 **也要安裝 torchvision**
 ```shell
-pip3 install torchvision
+pip3 install torchvision -f https://download.pytorch.org/whl/cu80/stable
 ```
 
 **OpenPose**  
@@ -73,9 +73,10 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy03NTY0NDUwNTAs
-NjgxOTU4Njg3LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0Mj
-U3NjExLDE5NzgxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwt
-Mjk3OTU5ODEzLC02OTI4MzQxMzQsMTY1NDEzNTAxOSwtOTUzMj
-M0ODQ1LDkyNjMxNTM3NywxNjk2OTI0MDk4XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE0ODg4Mjg2NTYs
+LTc1NjQ0NTA1MCw2ODE5NTg2ODcsMTYxNzQxOTI4MywyNzQ2Mz
+QzODMsLTIxMDQyNTc2MTEsMTk3ODEyNTA5OCw1Mzc2MzA0NzQs
+MjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5MjgzNDEzNCwxNjU0MT
+M1MDE5LC05NTMyMzQ4NDUsOTI2MzE1Mzc3LDE2OTY5MjQwOThd
+fQ==
 -->
