@@ -26,7 +26,7 @@ pip3 install torchvision -f https://download.pytorch.org/whl/cu80/stable
 ```
 
 **OpenPose**  
-已安裝
+請參考
 
 **FFmpeg**  
 ```shell
@@ -73,7 +73,7 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE0ODg4Mjg2NTYs
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy02ODU2MDQ5MTcs
 LTc1NjQ0NTA1MCw2ODE5NTg2ODcsOTQ4NTU5MDk5LDE2MTc0MT
 kyODMsMjc0NjM0MzgzLC0yMTA0MjU3NjExLDE5NzgxMjUwOTgs
 NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
