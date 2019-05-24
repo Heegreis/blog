@@ -2,7 +2,8 @@
 **目錄**  
 [TOC]
 # 創建環境
-**windows ver
+**windows ver**  
+
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 
@@ -24,5 +25,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzIxMDcwN119
+eyJoaXN0b3J5IjpbMTg2NjU3NTQyNV19
 -->
