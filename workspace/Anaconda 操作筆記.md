@@ -29,7 +29,9 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 引用對照 [^1]。
 
 # 參考資料
-[Installing TensorFlow on Windows | TensorFlow](https://www.tensorflow.org/install/install_windows)
+[[Day01]Anaconda環境安裝！ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天]([https://ithelp.ithome.com.tw/articles/10192460](https://ithelp.ithome.com.tw/articles/10192460))
+
+
 
 [^1]: [被引用連結說明:](http://tieba.baidu.com/p/4565248851)
 
@@ -38,5 +40,5 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDEyNDg0MV19
+eyJoaXN0b3J5IjpbLTEzMDUxMTI2NTMsLTgzNDEyNDg0MV19
 -->
