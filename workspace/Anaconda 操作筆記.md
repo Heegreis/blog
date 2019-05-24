@@ -4,7 +4,7 @@
 # 創建環境
 **windows ver**  
 ```shell
-conda create -n envName --prefix=D:\python36\py36 python=3.6
+conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 ```
 ## 標題二
 連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
@@ -27,5 +27,5 @@ conda create -n envName --prefix=D:\python36\py36 python=3.6
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5ODE0MjExXX0=
+eyJoaXN0b3J5IjpbLTE5MTU5NTUzMTFdfQ==
 -->
