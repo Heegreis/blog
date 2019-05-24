@@ -2,7 +2,10 @@
 **目錄**  
 [TOC]
 # 創建環境
-**windows ver**  
+以下列出幾個常用的創見方式
+```shell
+conda create -n envName python=3.5
+```
 
 ```shell
 conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
@@ -28,5 +31,5 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Nzk2MTYzNV19
+eyJoaXN0b3J5IjpbMTMxMjc4MTA5Ml19
 -->
