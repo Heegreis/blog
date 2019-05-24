@@ -33,12 +33,12 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 
 
 
-[^1]: [被引用連結說明:](http://tieba.baidu.com/p/4565248851)
+[^1]: [Python：Anaconda安装虚拟环境到指定路径 - learn_tech的博客 - CSDN博客]([https://blog.csdn.net/learn_tech/article/details/80748450](https://blog.csdn.net/learn_tech/article/details/80748450))
 
-*最後編輯時間:2018/5/10*
+*最後編輯時間:2019/5/25*
 
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDUxMTI2NTMsLTgzNDEyNDg0MV19
+eyJoaXN0b3J5IjpbLTIxMDAwNzkwODQsLTgzNDEyNDg0MV19
 -->
