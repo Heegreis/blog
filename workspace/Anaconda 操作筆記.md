@@ -3,6 +3,12 @@
 [TOC]
 # 創建環境
 以下列出幾個常用的創見方式
+最簡單的，只有指定虛擬環境的名稱
+```shell
+conda create -n envName
+```
+
+指定虛擬環境名稱，並預先安裝python版本
 ```shell
 conda create -n envName python=3.5
 ```
@@ -31,5 +37,5 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjc4MTA5Ml19
+eyJoaXN0b3J5IjpbODU1MTI3NDAyXX0=
 -->
