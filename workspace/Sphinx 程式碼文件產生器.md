@@ -36,12 +36,12 @@ import sys
 sys.path.insert(0, os.path.abspath('../src/'))
 ```
 然後在
-```
+```python
 extensions = [
 ]
 ```
 加入 `'sphinx.ext.autodoc'` ，如下所示
-```
+```python
 extensions = ['sphinx.ext.autodoc']
 ```
 ## 引用程式內說明
@@ -58,12 +58,12 @@ crawler.main
 # 參考資料
 
 
-*最後編輯時間:2019/5/21*
+*最後編輯時間:2019/5/24*
 
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNjg1NDc1LC02ODMxMTQzNzIsMTU0MT
-YzMjUxMiwtMjExODk5MzM1MSwtNjgwNTk5ODE0LC0xODIzMDM5
-MDE3XX0=
+eyJoaXN0b3J5IjpbLTE5Njc1MTY5OCwtNjgzMTE0MzcyLDE1ND
+E2MzI1MTIsLTIxMTg5OTMzNTEsLTY4MDU5OTgxNCwtMTgyMzAz
+OTAxN119
 -->
