@@ -17,17 +17,6 @@ conda create -n envName python=3.5
 ```shell
 conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 ```
-## 標題二
-連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
-
-`行內程式碼`
-
-```shell
-區塊程式碼
-```
-
-引用對照 [^1]。
-
 # 參考資料
 [[Day01]Anaconda環境安裝！ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天]([https://ithelp.ithome.com.tw/articles/10192460](https://ithelp.ithome.com.tw/articles/10192460))
 
@@ -39,5 +28,5 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTY0NTMyNSwtODM0MTI0ODQxXX0=
+eyJoaXN0b3J5IjpbLTE4NjY0NTYxMjEsLTgzNDEyNDg0MV19
 -->
