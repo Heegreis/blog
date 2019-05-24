@@ -8,11 +8,12 @@
 conda create -n envName
 ```
 
-指定虛擬環境名稱，並預先安裝python版本
+指定虛擬環境名稱，並預先安裝 python
 ```shell
 conda create -n envName python=3.5
 ```
 
+指定虛擬環境的安裝位置，以及 python 版本，因筆者在 windows 創建時，預設都會創建在
 ```shell
 conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 ```
@@ -37,5 +38,5 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MTI3NDAyXX0=
+eyJoaXN0b3J5IjpbMjM0MDgyODU2XX0=
 -->
