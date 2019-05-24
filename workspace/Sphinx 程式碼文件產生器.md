@@ -25,13 +25,15 @@ sphinx-quickstart
 ```
 會產生所需檔案與 `conf.py` ，將該檔案內的
 ```python
+# import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 ```
 取消註解，並修改為
-```
-# import sys
-# sys.path.insert(0, os.path.abspath('../src/'))
+```python
+import os
+import sys
+sys.path.insert(0, os.path.abspath('../src/'))
 ```
 然後在
 ```
@@ -61,6 +63,7 @@ crawler.main
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzExNDM3MiwxNTQxNjMyNTEyLC0yMT
-E4OTkzMzUxLC02ODA1OTk4MTQsLTE4MjMwMzkwMTddfQ==
+eyJoaXN0b3J5IjpbNzQwNjg1NDc1LC02ODMxMTQzNzIsMTU0MT
+YzMjUxMiwtMjExODk5MzM1MSwtNjgwNTk5ODE0LC0xODIzMDM5
+MDE3XX0=
 -->
