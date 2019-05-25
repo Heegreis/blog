@@ -51,7 +51,7 @@ extensions = [
 extensions = ['sphinx.ext.autodoc']
 ```
 ## 引用程式內說明
-以 `src/main.py` 範例，在 `docs/` 的
+以 `src/main.py` 範例，在 `docs/` 的任一 `.rst` 檔
 ```rst
 Python API
 ==================
@@ -69,8 +69,8 @@ main
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Mjk5ODQxLC02Nzk0MTY3OTUsMTU5MT
-EyNjk1NCw3NTgwMjg5MzUsLTE5Njc1MTY5OCwtNjgzMTE0Mzcy
-LDE1NDE2MzI1MTIsLTIxMTg5OTMzNTEsLTY4MDU5OTgxNCwtMT
-gyMzAzOTAxN119
+eyJoaXN0b3J5IjpbLTE4NDg5NjUwMjksLTY3OTQxNjc5NSwxNT
+kxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4LC02ODMxMTQz
+NzIsMTU0MTYzMjUxMiwtMjExODk5MzM1MSwtNjgwNTk5ODE0LC
+0xODIzMDM5MDE3XX0=
 -->
