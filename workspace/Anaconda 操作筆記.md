@@ -21,6 +21,11 @@ conda create -n envName python=3.5
 conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 ```
 該資料夾名稱便是虛擬環境名稱，所以就不用(也無法)加上 `-n` 的參數了。
+# 常用操作
+**啟動環境**
+```
+
+```
 # 參考資料
 [[Day01]Anaconda環境安裝！ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天]([https://ithelp.ithome.com.tw/articles/10192460](https://ithelp.ithome.com.tw/articles/10192460))
 
@@ -32,6 +37,6 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjM1MzY2MCwxNTEwNjY4NTkyLDE3MD
-E1NjgzNTMsLTE4NjY0NTYxMjEsLTgzNDEyNDg0MV19
+eyJoaXN0b3J5IjpbLTE1ODcxMDgxNzMsMTUxMDY2ODU5MiwxNz
+AxNTY4MzUzLC0xODY2NDU2MTIxLC04MzQxMjQ4NDFdfQ==
 -->
