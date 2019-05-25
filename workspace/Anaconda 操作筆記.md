@@ -64,6 +64,8 @@ conda env remove -n envName
 Anaconda, python
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMjk0MTA3LDE1MTA2Njg1OTIsMTcwMT
-U2ODM1MywtMTg2NjQ1NjEyMSwtODM0MTI0ODQxXX0=
+eyJwcm9wZXJ0aWVzIjoidGFnczogJ0FuYWNvbmRhLCBweXRob2
+4nXG4iLCJoaXN0b3J5IjpbMTA4NTE0NDg5NSw5NDIyOTQxMDcs
+MTUxMDY2ODU5MiwxNzAxNTY4MzUzLC0xODY2NDU2MTIxLC04Mz
+QxMjQ4NDFdfQ==
 -->
