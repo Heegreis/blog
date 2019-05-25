@@ -61,8 +61,9 @@ conda env remove -n envName
 *最後編輯時間:2019/5/25*
 
 <!--tags:
+Anaconda, 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzEwMDY2MTAsMTUxMDY2ODU5MiwxNz
-AxNTY4MzUzLC0xODY2NDU2MTIxLC04MzQxMjQ4NDFdfQ==
+eyJoaXN0b3J5IjpbMTc0MzA0NTQzOSwxNTEwNjY4NTkyLDE3MD
+E1NjgzNTMsLTE4NjY0NTYxMjEsLTgzNDEyNDg0MV19
 -->
