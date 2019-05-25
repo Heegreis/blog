@@ -40,15 +40,18 @@ conda list
 
 **移除套件**
 ```shell
-conda remove
+conda remove 套件
 ```
 
 **退出虛擬環境**
 ```shell
 source deactivate
 ```
+
 **刪除虛擬環境**
+```shell
 conda env remove -n envName
+```
 # 參考資料
 [[Day01]Anaconda環境安裝！ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10192460))
 
@@ -60,6 +63,6 @@ conda env remove -n envName
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1OTc3NDc3LDE1MTA2Njg1OTIsMTcwMT
-U2ODM1MywtMTg2NjQ1NjEyMSwtODM0MTI0ODQxXX0=
+eyJoaXN0b3J5IjpbLTE4MzEwMDY2MTAsMTUxMDY2ODU5MiwxNz
+AxNTY4MzUzLC0xODY2NDU2MTIxLC04MzQxMjQ4NDFdfQ==
 -->
