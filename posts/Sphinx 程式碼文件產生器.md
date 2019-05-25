@@ -51,12 +51,8 @@ extensions = [
 extensions = ['sphinx.ext.autodoc']
 ```
 ## 引用程式內說明
-以 `src/main.py` 為例，在 `docs/` 的任一 `.rst` 檔
+以 `src/main.py` 為例，在 `docs/` 的任一 `.rst` 檔加入
 ```rst
-Python API
-==================
-
-main
 .. automodule:: main
 	:members:
 ```
@@ -69,7 +65,7 @@ main
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3NzQyMTE3LC02Nzk0MTY3OTUsMTU5MT
+eyJoaXN0b3J5IjpbODQwMTE1ODYzLC02Nzk0MTY3OTUsMTU5MT
 EyNjk1NCw3NTgwMjg5MzUsLTE5Njc1MTY5OCwtNjgzMTE0Mzcy
 XX0=
 -->
