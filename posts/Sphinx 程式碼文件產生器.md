@@ -50,7 +50,8 @@ extensions = [
 ```python
 extensions = ['sphinx.ext.autodoc']
 ```
-## 引用程式內說明
+# autodoc
+這個功能可以引用程式內的說明
 以 `src/subFunc/main.py` 為例，在 `docs/` 的任一 `.rst` 檔加入以下語法，就會引用該程式碼裡所寫的說明
 ```rst
 .. automodule:: subFunc.main
@@ -65,7 +66,7 @@ extensions = ['sphinx.ext.autodoc']
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5ODA3MzY4LC02Nzk0MTY3OTUsMTU5MT
-EyNjk1NCw3NTgwMjg5MzUsLTE5Njc1MTY5OCwtNjgzMTE0Mzcy
-XX0=
+eyJoaXN0b3J5IjpbODE1Mjk3MzM0LDU0OTgwNzM2OCwtNjc5ND
+E2Nzk1LDE1OTExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgs
+LTY4MzExNDM3Ml19
 -->
