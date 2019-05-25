@@ -2,7 +2,8 @@ Anaconda 可以用來分離 python 的環境，並且會預先安裝常用的科
 [readmore]
 **目錄**  
 [TOC]
-# 
+# 安裝 Anaconda
+安裝直接到 Home - Anaconda
 # 創建環境
 以下列出幾個常用的創見方式
 **最簡單的，只有指定虛擬環境的名稱 :**
@@ -31,6 +32,6 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MDU4NjEwLDE1MTA2Njg1OTIsMTcwMT
-U2ODM1MywtMTg2NjQ1NjEyMSwtODM0MTI0ODQxXX0=
+eyJoaXN0b3J5IjpbLTQxMTY5NzgwNSwxNTEwNjY4NTkyLDE3MD
+E1NjgzNTMsLTE4NjY0NTYxMjEsLTgzNDEyNDg0MV19
 -->
