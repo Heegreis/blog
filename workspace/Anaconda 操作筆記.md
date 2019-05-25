@@ -1,4 +1,4 @@
-Anaconda dk3 python 有很多的套件可以使用
+Anaconda 可以用來分離 python 有很多的套件可以使用
 [readmore]
 **目錄**  
 [TOC]
@@ -29,6 +29,6 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI1MzA1NzMsLTE4NjY0NTYxMjEsLT
-gzNDEyNDg0MV19
+eyJoaXN0b3J5IjpbMTcwMTU2ODM1MywtMTg2NjQ1NjEyMSwtOD
+M0MTI0ODQxXX0=
 -->
