@@ -33,7 +33,15 @@ source activate envName
 conda install 套件
 ```
 
+**列出已安裝套件**
+```shell
+conda list
+```
 
+**移除套件**
+```shell
+conda remove
+```
 # 參考資料
 [[Day01]Anaconda環境安裝！ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10192460))
 
@@ -45,6 +53,6 @@ conda install 套件
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTExNzYwOSwxNTEwNjY4NTkyLDE3MD
-E1NjgzNTMsLTE4NjY0NTYxMjEsLTgzNDEyNDg0MV19
+eyJoaXN0b3J5IjpbNjk0NDczMzEzLDE1MTA2Njg1OTIsMTcwMT
+U2ODM1MywtMTg2NjQ1NjEyMSwtODM0MTI0ODQxXX0=
 -->
