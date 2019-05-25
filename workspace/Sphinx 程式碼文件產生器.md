@@ -51,7 +51,7 @@ extensions = [
 extensions = ['sphinx.ext.autodoc']
 ```
 ## 引用程式內說明
-以 `src/main.py` 為例，在 `docs/` 的任一 `.rst` 檔加入
+以 `src/main.py` 為例，在 `docs/` 的任一 `.rst` 檔加入以下語法，就會引用
 ```rst
 .. automodule:: main
 	:members:
@@ -65,8 +65,8 @@ extensions = ['sphinx.ext.autodoc']
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwMTE1ODYzLC02Nzk0MTY3OTUsMTU5MT
-EyNjk1NCw3NTgwMjg5MzUsLTE5Njc1MTY5OCwtNjgzMTE0Mzcy
-LDE1NDE2MzI1MTIsLTIxMTg5OTMzNTEsLTY4MDU5OTgxNCwtMT
-gyMzAzOTAxN119
+eyJoaXN0b3J5IjpbMTgyNjEwNzA4MSwtNjc5NDE2Nzk1LDE1OT
+ExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4MzExNDM3
+MiwxNTQxNjMyNTEyLC0yMTE4OTkzMzUxLC02ODA1OTk4MTQsLT
+E4MjMwMzkwMTddfQ==
 -->
