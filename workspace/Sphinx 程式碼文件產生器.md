@@ -3,8 +3,6 @@ Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成�
 **目錄**  
 [TOC]
 # 初始設定
-[Getting Started: Overview & Installing Initial Project — Sphinx Tutorial 1.0 documentation](https://sphinx-tutorial.readthedocs.io/start/)
-
 **安裝 Sphinx**
 ```shell
 pip install sphinx
@@ -61,6 +59,8 @@ extensions = ['sphinx.ext.autodoc']
 ```
 
 # 參考資料
+[Getting Started: Overview & Installing Initial Project — Sphinx Tutorial 1.0 documentation](https://sphinx-tutorial.readthedocs.io/start/)
+
 
 [^1]:[飘逸的python - 代码即文档docstring - mattkang - CSDN博客](https://blog.csdn.net/handsomekang/article/details/46830083)
 *最後編輯時間:2019/5/24*
@@ -68,8 +68,8 @@ extensions = ['sphinx.ext.autodoc']
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA5MDY0NTksNTQ5ODA3MzY4LC02Nz
-k0MTY3OTUsMTU5MTEyNjk1NCw3NTgwMjg5MzUsLTE5Njc1MTY5
-OCwtNjgzMTE0MzcyLDE1NDE2MzI1MTIsLTIxMTg5OTMzNTEsLT
-Y4MDU5OTgxNCwtMTgyMzAzOTAxN119
+eyJoaXN0b3J5IjpbMTAxOTA0ODQ5NSw1NDk4MDczNjgsLTY3OT
+QxNjc5NSwxNTkxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4
+LC02ODMxMTQzNzIsMTU0MTYzMjUxMiwtMjExODk5MzM1MSwtNj
+gwNTk5ODE0LC0xODIzMDM5MDE3XX0=
 -->
