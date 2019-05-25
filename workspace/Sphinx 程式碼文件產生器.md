@@ -18,6 +18,8 @@ pip install sphinx-rtd-theme
 **設定資料夾結構**
 待補
 ```
+projectRoot
+├---
 --
 
 ```
@@ -67,7 +69,7 @@ crawler.main
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4Mz
-ExNDM3MiwxNTQxNjMyNTEyLC0yMTE4OTkzMzUxLC02ODA1OTk4
-MTQsLTE4MjMwMzkwMTddfQ==
+eyJoaXN0b3J5IjpbLTQwMDY2MTI5Myw3NTgwMjg5MzUsLTE5Nj
+c1MTY5OCwtNjgzMTE0MzcyLDE1NDE2MzI1MTIsLTIxMTg5OTMz
+NTEsLTY4MDU5OTgxNCwtMTgyMzAzOTAxN119
 -->
