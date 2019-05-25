@@ -28,6 +28,7 @@ projectRoot
 ```shell
 sphinx-quickstart
 ```
+然後會有一連ㄔ
 會產生所需檔案與 `conf.py` ，將該檔案內的
 ```python
 # import os
@@ -68,7 +69,7 @@ crawler.main
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM0ODI2MzcsLTY3OTQxNjc5NSwxNT
-kxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4LC02ODMxMTQz
-NzJdfQ==
+eyJoaXN0b3J5IjpbMTc0MDg0NTM3NCwtNjc5NDE2Nzk1LDE1OT
+ExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4MzExNDM3
+Ml19
 -->
