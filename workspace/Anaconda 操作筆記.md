@@ -1,4 +1,4 @@
-Anaconda 可以用來分離 python 有很多的套件可以使用
+Anaconda 可以用來分離 python 的環境，並且會預先安裝常用的科學運算套件。在做實驗或隔離專案環境時很方便。
 [readmore]
 **目錄**  
 [TOC]
@@ -30,6 +30,6 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDY2ODU5MiwxNzAxNTY4MzUzLC0xOD
-Y2NDU2MTIxLC04MzQxMjQ4NDFdfQ==
+eyJoaXN0b3J5IjpbMTY4MTc2Njk3OSwxNTEwNjY4NTkyLDE3MD
+E1NjgzNTMsLTE4NjY0NTYxMjEsLTgzNDEyNDg0MV19
 -->
