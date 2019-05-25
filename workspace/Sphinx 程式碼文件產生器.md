@@ -16,7 +16,7 @@ pip install sphinx-rtd-theme
 ```
 
 **設定資料夾結構**
-
+其實也可以不設定，這邊是要分離文件跟原始碼所做的處理
 ```
 projectRoot
 ├---src
@@ -68,8 +68,8 @@ crawler.main
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTg5NjEyMCwtNjc5NDE2Nzk1LDE1OT
-ExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4MzExNDM3
-MiwxNTQxNjMyNTEyLC0yMTE4OTkzMzUxLC02ODA1OTk4MTQsLT
-E4MjMwMzkwMTddfQ==
+eyJoaXN0b3J5IjpbLTE3MjM0ODI2MzcsLTY3OTQxNjc5NSwxNT
+kxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4LC02ODMxMTQz
+NzIsMTU0MTYzMjUxMiwtMjExODk5MzM1MSwtNjgwNTk5ODE0LC
+0xODIzMDM5MDE3XX0=
 -->
