@@ -69,7 +69,8 @@ extensions = ['sphinx.ext.autodoc']
 docstring, python, Sphinx
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTc2ODg0Nyw1NDk4MDczNjgsLTY3OT
-QxNjc5NSwxNTkxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4
-LC02ODMxMTQzNzJdfQ==
+eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
+9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTg4MjMwMTE3LDU0
+OTgwNzM2OCwtNjc5NDE2Nzk1LDE1OTExMjY5NTQsNzU4MDI4OT
+M1LC0xOTY3NTE2OTgsLTY4MzExNDM3Ml19
 -->
