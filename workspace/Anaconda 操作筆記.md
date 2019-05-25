@@ -27,7 +27,10 @@ conda create --prefix=C:\ProgramData\Anaconda3\envs\envName python=3.5
 source activate envName
 ```
 
-****
+**安裝套件**
+```
+conda install
+```
 # 參考資料
 [[Day01]Anaconda環境安裝！ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10192460))
 
@@ -39,6 +42,6 @@ source activate envName
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDQ4MTEyMCwxNTEwNjY4NTkyLDE3MD
-E1NjgzNTMsLTE4NjY0NTYxMjEsLTgzNDEyNDg0MV19
+eyJoaXN0b3J5IjpbLTE5MTk2MTc4MzEsMTUxMDY2ODU5MiwxNz
+AxNTY4MzUzLC0xODY2NDU2MTIxLC04MzQxMjQ4NDFdfQ==
 -->
