@@ -51,13 +51,13 @@ extensions = [
 extensions = ['sphinx.ext.autodoc']
 ```
 ## 引用程式內說明
-以 `./src/main.py` 範例，
+以 `./src/main.py` 範例，在
 ```rst
 Python API
 ==================
 
-crawler.main
-.. automodule:: crawler.main
+main
+.. automodule:: main
 	:members:
 ```
 
@@ -69,7 +69,7 @@ crawler.main
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDkxNDg3MiwtNjc5NDE2Nzk1LDE1OT
+eyJoaXN0b3J5IjpbMTQ1MjE5MDUxNCwtNjc5NDE2Nzk1LDE1OT
 ExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4MzExNDM3
 Ml19
 -->
