@@ -28,8 +28,9 @@ source activate envName
 ```
 
 **安裝套件**
-```
-conda install
+就是把 `pip` ㄍ
+```shell
+conda install 套件
 ```
 # 參考資料
 [[Day01]Anaconda環境安裝！ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10192460))
@@ -42,6 +43,6 @@ conda install
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk2MTc4MzEsMTUxMDY2ODU5MiwxNz
-AxNTY4MzUzLC0xODY2NDU2MTIxLC04MzQxMjQ4NDFdfQ==
+eyJoaXN0b3J5IjpbMTE2NTczNDk4NCwxNTEwNjY4NTkyLDE3MD
+E1NjgzNTMsLTE4NjY0NTYxMjEsLTgzNDEyNDg0MV19
 -->
