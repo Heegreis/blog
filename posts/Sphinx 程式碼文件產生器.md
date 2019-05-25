@@ -52,7 +52,7 @@ extensions = ['sphinx.ext.autodoc']
 ```
 # autodoc
 這個功能可以引用程式內的註解說明(docstring)，但 Sphinx 有指定的格式[^1]。  
-若是像筆者習慣使用 vscode 可以使用 autoDocstring 這個擴充功能，並設定為 sphinx
+若是像筆者習慣使用 vscode ，可以使用 autoDocstring 這個擴充功能，並設定為 Sphinx 的格式。就可以快速插入 docstring 了。
 
 以 `src/subFunc/main.py` 為例，在 `docs/` 的任一 `.rst` 檔加入以下語法，就會引用該程式碼裡所寫的說明
 ```rst
@@ -68,7 +68,7 @@ extensions = ['sphinx.ext.autodoc']
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTUyMzMyMSw1NDk4MDczNjgsLTY3OT
-QxNjc5NSwxNTkxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4
-LC02ODMxMTQzNzJdfQ==
+eyJoaXN0b3J5IjpbLTEzNTA5MDY0NTksNTQ5ODA3MzY4LC02Nz
+k0MTY3OTUsMTU5MTEyNjk1NCw3NTgwMjg5MzUsLTE5Njc1MTY5
+OCwtNjgzMTE0MzcyXX0=
 -->
