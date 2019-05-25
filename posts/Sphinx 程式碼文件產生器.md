@@ -29,7 +29,7 @@ projectRoot
 sphinx-quickstart
 ```
 然後會有一連串的設定選項要選，但筆者也還沒很了解這些設定，以後有機會再補充。  
-會產生所需檔案與 `conf.py` ，將該檔案內的
+就會產生所需檔案與 `conf.py` ，將該檔案內的
 ```python
 # import os
 # import sys
@@ -51,9 +51,9 @@ extensions = [
 extensions = ['sphinx.ext.autodoc']
 ```
 ## 引用程式內說明
-以 `./src/main.py` 範例
+以 `./src/main.py` 範例，
 ```rst
-Crawler Python API
+Python API
 ==================
 
 crawler.main
@@ -69,7 +69,7 @@ crawler.main
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczMjE1NjkzLC02Nzk0MTY3OTUsMTU5MT
-EyNjk1NCw3NTgwMjg5MzUsLTE5Njc1MTY5OCwtNjgzMTE0Mzcy
-XX0=
+eyJoaXN0b3J5IjpbMTUwNDkxNDg3MiwtNjc5NDE2Nzk1LDE1OT
+ExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4MzExNDM3
+Ml19
 -->
