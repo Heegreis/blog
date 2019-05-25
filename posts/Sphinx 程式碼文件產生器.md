@@ -66,10 +66,10 @@ extensions = ['sphinx.ext.autodoc']
 *最後編輯時間:2019/5/25*
 
 <!--tags:
-docstring, python, Sphinx 
+docstring, python, Sphinx
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDQxMzEzOSw1NDk4MDczNjgsLTY3OT
+eyJoaXN0b3J5IjpbMTU5MTc2ODg0Nyw1NDk4MDczNjgsLTY3OT
 QxNjc5NSwxNTkxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4
 LC02ODMxMTQzNzJdfQ==
 -->
