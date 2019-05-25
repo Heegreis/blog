@@ -15,7 +15,7 @@ pip install sphinx-rtd-theme
 
 **設定資料夾結構**
 其實也可以不設定，這邊是要分離文件跟原始碼所做的處理
-```
+```string
 projectRoot
 ├---src
 └---docs
@@ -70,7 +70,8 @@ docstring, python, Sphinx
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
-9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTg4MjMwMTE3LDU0
-OTgwNzM2OCwtNjc5NDE2Nzk1LDE1OTExMjY5NTQsNzU4MDI4OT
-M1LC0xOTY3NTE2OTgsLTY4MzExNDM3Ml19
+9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTE4NDM3OTcyMDQs
+LTg4MjMwMTE3LDU0OTgwNzM2OCwtNjc5NDE2Nzk1LDE1OTExMj
+Y5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4MzExNDM3Ml19
+
 -->
