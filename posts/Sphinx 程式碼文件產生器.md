@@ -16,13 +16,11 @@ pip install sphinx-rtd-theme
 ```
 
 **設定資料夾結構**
-待補
+
 ```
 projectRoot
 ├---src
 └---docs
---
-
 ```
 筆者將原始碼統一放在 `src/` 資料夾下
 
@@ -70,6 +68,7 @@ crawler.main
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTQxNjc5NSwxNTkxMTI2OTU0LDc1OD
-AyODkzNSwtMTk2NzUxNjk4LC02ODMxMTQzNzJdfQ==
+eyJoaXN0b3J5IjpbMTY0MTg5NjEyMCwtNjc5NDE2Nzk1LDE1OT
+ExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4MzExNDM3
+Ml19
 -->
