@@ -5,7 +5,7 @@ Anaconda 可以用來分離 python 的環境，並且會預先安裝常用的科
 # 安裝 Anaconda
 安裝直接到 [Home - Anaconda](https://www.anaconda.com/)，Anaconda 的官網，安裝還蠻方便的，就先不贅述了(其實是懶得重跑一次安裝步驟)。
 # 創建環境
-以下列出幾個常用的創見方式
+以下列出幾個常用的創建方式
 **最簡單的，只有指定虛擬環境的名稱 :**
 ```shell
 conda create -n envName
@@ -65,6 +65,6 @@ Anaconda, python
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ0FuYWNvbmRhLCBweXRob2
-4nXG4iLCJoaXN0b3J5IjpbMTA4NTE0NDg5NSw5NDIyOTQxMDdd
-fQ==
+4nXG4iLCJoaXN0b3J5IjpbMTkxMzA4MTI2NCwxMDg1MTQ0ODk1
+LDk0MjI5NDEwN119
 -->
