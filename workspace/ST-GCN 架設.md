@@ -111,7 +111,7 @@ sudo apt-get install libvpx-dev
 ```
 ERROR: libass not found using pkg-config
 ```
-所以需要安裝 libass[]
+所以需要安裝 libass[^3][^4]
 
 FFmpeg
 ```shell
@@ -163,17 +163,19 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 
 [^3]:[FFmpeg编译记-依懒库安装-广东IDC网](http://aliyun.gdidc.com.cn/forum/8713/)
 
+[^4]:[ffmpeg在PC上编译问题全解决_张志辉kom_新浪博客](http://blog.sina.com.cn/s/blog_61bc01360102w815.html)
+
 *最後編輯時間:2019/5/9*
 <!--tags:
 環境架設, 機器學習, 動作識別
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0yMDg0NTM1MTg4
-LDEyMDQ1NDQ2MTcsMTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MD
-EwODEwMCwtNjg1NjA0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3
-LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0MjU3NjExLDE5Nz
-gxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEz
-LC02OTI4MzQxMzQsMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNj
-MxNTM3NywxNjk2OTI0MDk4XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzIwMTk3NDM2Mjgs
+MTIwNDU0NDYxNywxODUxMjQyOTA0LDMyODQyMzMwMywxNTcwMT
+A4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NTg2ODcs
+MTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEsMTk3OD
+EyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMs
+LTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NTMyMzQ4NDUsOTI2Mz
+E1Mzc3LDE2OTY5MjQwOThdfQ==
 -->
