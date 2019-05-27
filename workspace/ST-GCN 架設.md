@@ -123,7 +123,7 @@ ERROR: libass not found using pkg-config
 ```
 [Fontconfig-2.13.1](https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.1.tar.bz2) 下載並解壓縮後，進到解壓縮後的資料夾，執行以下指令
 ```shell
-
+./configure --prefix=/usr -disable-docs && make && sudo make install
 ```
 
 FFmpeg
@@ -184,11 +184,11 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE0MTcwNjM4NTMs
-MTIwNDU0NDYxNywxODUxMjQyOTA0LDMyODQyMzMwMywxNTcwMT
-A4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NTg2ODcs
-MTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEsMTk3OD
-EyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMs
-LTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NTMyMzQ4NDUsOTI2Mz
-E1Mzc3LDE2OTY5MjQwOThdfQ==
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xNTM3MTEyODYz
+LDEyMDQ1NDQ2MTcsMTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MD
+EwODEwMCwtNjg1NjA0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3
+LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0MjU3NjExLDE5Nz
+gxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEz
+LC02OTI4MzQxMzQsMTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNj
+MxNTM3NywxNjk2OTI0MDk4XX0=
 -->
