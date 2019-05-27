@@ -77,27 +77,40 @@ PATH="$HOME/bin:$PATH" make
 make install
 ```
 
-libx264 | H.264 video encoder
+libx264
 ```shell
 sudo apt-get install libx264-dev
 ```
 
-libx265 | H.265/HEVC video encoder
+libx265
 ```shell
 sudo apt-get install libx265-dev
 ```
 
-libfdk-aac | AAC audio encoder
+libfdk-aac
 ```shell
 sudo apt-get install libfdk-aac-dev
 ```
 
-libmp3lame | MP3 audio encoder
+libmp3lame
 ```shell
 sudo apt-get install libmp3lame-dev
 ```
 
+libopus
+```shell
+sudo apt-get install libopus-dev
+```
 
+libvpx
+```shell
+sudo apt-get install libvpx-dev
+```
+
+FFmpeg
+```shell
+
+```
 
 遇到的問題解法
 Unknown option "--enable-x11grab".[^2]
@@ -148,11 +161,11 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0zNjI4MjY0MjIs
-MTIwNDU0NDYxNywxODUxMjQyOTA0LDMyODQyMzMwMywxNTcwMT
-A4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NTg2ODcs
-MTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEsMTk3OD
-EyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMs
-LTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NTMyMzQ4NDUsOTI2Mz
-E1Mzc3LDE2OTY5MjQwOThdfQ==
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzcxNjIzODA0NCwx
+MjA0NTQ0NjE3LDE4NTEyNDI5MDQsMzI4NDIzMzAzLDE1NzAxMD
+gxMDAsLTY4NTYwNDkxNywtNzU2NDQ1MDUwLDY4MTk1ODY4Nywx
+NjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MT
+I1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywt
+NjkyODM0MTM0LDE2NTQxMzUwMTksLTk1MzIzNDg0NSw5MjYzMT
+UzNzcsMTY5NjkyNDA5OF19
 -->
