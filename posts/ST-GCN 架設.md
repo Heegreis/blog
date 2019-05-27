@@ -32,6 +32,10 @@ pip3 install torchvision -f https://download.pytorch.org/whl/cu80/stable
 ```shell
 sudo apt-get install ffmpeg
 ```
+以此方法安裝的 FFmpeg ，在
+```
+ValueError: No way to determine width or height from video. Need `-s` in `inputdict`. Consult documentation on I/O.
+```
 
 **其他 Python liberties**
 ```
@@ -73,9 +77,9 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy02ODU2MDQ5MTcs
-LTc1NjQ0NTA1MCw2ODE5NTg2ODcsOTQ4NTU5MDk5LDE2MTc0MT
-kyODMsMjc0NjM0MzgzLC0yMTA0MjU3NjExLDE5NzgxMjUwOTgs
-NTM3NjMwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4Mz
-QxMzRdfQ==
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy00NjcwNDE5MTYs
+LTY4NTYwNDkxNywtNzU2NDQ1MDUwLDY4MTk1ODY4Nyw5NDg1NT
+kwOTksMTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEs
+MTk3ODEyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NT
+k4MTMsLTY5MjgzNDEzNF19
 -->
