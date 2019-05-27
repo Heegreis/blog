@@ -77,6 +77,26 @@ PATH="$HOME/bin:$PATH" make
 make install
 ```
 
+libx264 | H.264 video encoder
+```shell
+sudo apt-get install libx264-dev
+```
+
+libx265 | H.265/HEVC video encoder
+```shell
+sudo apt-get install libx265-dev
+```
+
+libfdk-aac | AAC audio encoder
+```shell
+sudo apt-get install libfdk-aac-dev
+```
+
+libmp3lame | MP3 audio encoder
+```shell
+sudo apt-get install libmp3lame-dev
+```
+
 
 
 遇到的問題解法
@@ -128,7 +148,7 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy01MDI1MTAyNjEs
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0zNjI4MjY0MjIs
 MTIwNDU0NDYxNywxODUxMjQyOTA0LDMyODQyMzMwMywxNTcwMT
 A4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NTg2ODcs
 OTQ4NTU5MDk5LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0Mj
