@@ -113,7 +113,7 @@ ERROR: libass not found using pkg-config
 ```
 
 所以需要安裝 libass[^3][^4] :  
-
+[FreeType-2.10.0](https://downloads.sourceforge.net/freetype/freetype-2.10.0.tar.bz2) 下載並解壓縮後，進到
 ```
 
 ```
@@ -176,10 +176,10 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xODMxNzg0MTcy
-LDEyMDQ1NDQ2MTcsMTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MD
-EwODEwMCwtNjg1NjA0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3
-LDk0ODU1OTA5OSwxNjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwND
-I1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIs
-LTI5Nzk1OTgxMywtNjkyODM0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy00NTU1NDkwMzMs
+MTIwNDU0NDYxNywxODUxMjQyOTA0LDMyODQyMzMwMywxNTcwMT
+A4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NTg2ODcs
+OTQ4NTU5MDk5LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0Mj
+U3NjExLDE5NzgxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwt
+Mjk3OTU5ODEzLC02OTI4MzQxMzRdfQ==
 -->
