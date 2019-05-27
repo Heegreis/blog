@@ -193,11 +193,6 @@ python3 main.py demo --openpose <path to openpose build directory> [--video <pat
 ```shell
 python3 main.py demo --openpose /home/brian/Desktop/paperProject/openpose/ [--video <path to your video> --device <gpu0> <gpu1>]
 ```
-# 重新訓練模型
-下載 Kinetics-skeleton 資料，並解壓縮。然後執行以下指令
-```shell
-python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
-```
 
 
 
@@ -219,10 +214,11 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xMzEwNzIxMTUy
-LC0yMDAyOTE5OTk1LDEyMDQ1NDQ2MTcsMTg1MTI0MjkwNCwzMj
-g0MjMzMDMsMTU3MDEwODEwMCwtNjg1NjA0OTE3LC03NTY0NDUw
-NTAsNjgxOTU4Njg3LDk0ODU1OTA5OSwxNjE3NDE5MjgzLDI3ND
-YzNDM4MywtMjEwNDI1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3
-NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywtNjkyODM0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEyMzAyOTg1Nywt
+MTMxMDcyMTE1MiwtMjAwMjkxOTk5NSwxMjA0NTQ0NjE3LDE4NT
+EyNDI5MDQsMzI4NDIzMzAzLDE1NzAxMDgxMDAsLTY4NTYwNDkx
+NywtNzU2NDQ1MDUwLDY4MTk1ODY4Nyw5NDg1NTkwOTksMTYxNz
+QxOTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEsMTk3ODEyNTA5
+OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMsLTY5Mj
+gzNDEzNF19
 -->
