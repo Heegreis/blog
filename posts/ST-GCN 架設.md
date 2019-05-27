@@ -197,6 +197,7 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
 
+
 [^1]:[Compile FFmpeg on Ubuntu 16.04](https://gist.github.com/teocci/f7a438013a0197a91446ee86de41faee)
 
 [^2]:[image - Unknown option "--enable-x11grab" when installing ffmpeg on centos (6.8) - Stack Overflow](https://stackoverflow.com/questions/43364400/unknown-option-enable-x11grab-when-installing-ffmpeg-on-centos-6-8)
@@ -211,11 +212,11 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xMjUyMzE0ODcz
-LDYyMzc4NDk0MywtMTc1Njc1ODU2MiwtMTg4NjYwMDgzOSwtMT
-MxMDcyMTE1MiwtMjAwMjkxOTk5NSwxMjA0NTQ0NjE3LDE4NTEy
-NDI5MDQsMzI4NDIzMzAzLDE1NzAxMDgxMDAsLTY4NTYwNDkxNy
-wtNzU2NDQ1MDUwLDY4MTk1ODY4Nyw5NDg1NTkwOTksMTYxNzQx
-OTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEsMTk3ODEyNTA5OC
-w1Mzc2MzA0NzQsMjY1NzU4NjAyXX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEzOTYwNzAxNjks
+NjIzNzg0OTQzLC0xNzU2NzU4NTYyLC0xODg2NjAwODM5LC0xMz
+EwNzIxMTUyLC0yMDAyOTE5OTk1LDEyMDQ1NDQ2MTcsMTg1MTI0
+MjkwNCwzMjg0MjMzMDMsMTU3MDEwODEwMCwtNjg1NjA0OTE3LC
+03NTY0NDUwNTAsNjgxOTU4Njg3LDk0ODU1OTA5OSwxNjE3NDE5
+MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MTI1MDk4LD
+UzNzYzMDQ3NCwyNjU3NTg2MDJdfQ==
 -->
