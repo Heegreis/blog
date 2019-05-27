@@ -112,7 +112,7 @@ sudo apt-get install libvpx-dev
 ERROR: libass not found using pkg-config
 ```
 
-所以需要安裝 libass[^3][^4] :  
+所以需要安裝 libass[^3] [^4] :  
 [FreeType-2.10.0](https://downloads.sourceforge.net/freetype/freetype-2.10.0.tar.bz2) 下載並解壓縮後，進到解壓縮後的資料夾，執行以下指令
 ```shell
 ./configure --prefix=/usr --enable-freetype-config --disable-static && make
@@ -196,7 +196,7 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzIwOTAwOTI0ODAs
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy00MTgzNzEzMzIs
 MTIwNDU0NDYxNywxODUxMjQyOTA0LDMyODQyMzMwMywxNTcwMT
 A4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NTg2ODcs
 OTQ4NTU5MDk5LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0Mj
