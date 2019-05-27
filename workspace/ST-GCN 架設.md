@@ -24,7 +24,7 @@ pip3 install torchvision -f https://download.pytorch.org/whl/cu80/stable
 ```
 
 ## OpenPose
-請參考
+請參考 [OpenPose 安裝紀錄]()
 
 ## FFmpeg
 **失敗的安裝方式**
@@ -210,11 +210,11 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE0NTAzNTYzMCwt
-MTc1Njc1ODU2MiwtMTg4NjYwMDgzOSwtMTMxMDcyMTE1MiwtMj
-AwMjkxOTk5NSwxMjA0NTQ0NjE3LDE4NTEyNDI5MDQsMzI4NDIz
-MzAzLDE1NzAxMDgxMDAsLTY4NTYwNDkxNywtNzU2NDQ1MDUwLD
-Y4MTk1ODY4NywxNjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1
-NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLT
-I5Nzk1OTgxMywtNjkyODM0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy05OTc2OTM4MTQs
+LTE3NTY3NTg1NjIsLTE4ODY2MDA4MzksLTEzMTA3MjExNTIsLT
+IwMDI5MTk5OTUsMTIwNDU0NDYxNywxODUxMjQyOTA0LDMyODQy
+MzMwMywxNTcwMTA4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MC
+w2ODE5NTg2ODcsMTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQy
+NTc2MTEsMTk3ODEyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC
+0yOTc5NTk4MTMsLTY5MjgzNDEzNF19
 -->
