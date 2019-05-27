@@ -37,7 +37,7 @@ ValueError: No way to determine width or height from video. Need `-s` in `inputd
 ```
 **可行的安裝方式**
 改為從 source code 編譯的方式安裝 FFmpeg[^1] :
-以下的安裝FFmpeg的部分，筆者會另外開一個資料夾，在裡面進行編譯與安裝的步驟，因為會下載蠻多東西的。如 `~/ffmpeg_sources`
+以下的安裝FFmpeg的部分，筆者會另外開一個資料夾，在裡面進行編譯與安裝的步驟，因為會下載蠻多東西的。如 `~/ffmpeg_sources/`
 
 先移除已存在的 packages
 ```shell
@@ -197,6 +197,7 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
 
+
 [^1]:[Compile FFmpeg on Ubuntu 16.04](https://gist.github.com/teocci/f7a438013a0197a91446ee86de41faee)
 
 [^2]:[image - Unknown option "--enable-x11grab" when installing ffmpeg on centos (6.8) - Stack Overflow](https://stackoverflow.com/questions/43364400/unknown-option-enable-x11grab-when-installing-ffmpeg-on-centos-6-8)
@@ -211,7 +212,7 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE5NjI0MDM2MTQs
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEzOTYwNzAxNjks
 NjIzNzg0OTQzLC0xNzU2NzU4NTYyLC0xODg2NjAwODM5LC0xMz
 EwNzIxMTUyLC0yMDAyOTE5OTk1LDEyMDQ1NDQ2MTcsMTg1MTI0
 MjkwNCwzMjg0MjMzMDMsMTU3MDEwODEwMCwtNjg1NjA0OTE3LC
