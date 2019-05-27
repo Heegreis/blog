@@ -29,14 +29,15 @@ pip3 install torchvision -f https://download.pytorch.org/whl/cu80/stable
 請參考
 
 ## FFmpeg
+**失敗的安裝方式**
 ```shell
 sudo apt-get install ffmpeg
 ```
-以此方法安裝的 FFmpeg ，在測試 demo 時會有以下錯誤
+以此方法安裝的 FFmpeg ，在測試 demo 時會有以下錯誤:  
 ```
 ValueError: No way to determine width or height from video. Need `-s` in `inputdict`. Consult documentation on I/O.
 ```
-改以從 source code 編譯的方式安裝 FFmpeg[^1]
+改為從 source code 編譯的方式安裝 FFmpeg[^1]
 
 遇到的問題解法
 Unknown option "--enable-x11grab".[^2]
@@ -87,10 +88,10 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEyMDQ1NDQ2MTcs
-MTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MDEwODEwMCwtNjg1Nj
-A0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3LDk0ODU1OTA5OSwx
-NjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MT
-I1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywt
-NjkyODM0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xOTg2MzE4NjUy
+LDEyMDQ1NDQ2MTcsMTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MD
+EwODEwMCwtNjg1NjA0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3
+LDk0ODU1OTA5OSwxNjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwND
+I1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIs
+LTI5Nzk1OTgxMywtNjkyODM0MTM0XX0=
 -->
