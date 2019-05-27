@@ -37,6 +37,7 @@ ValueError: No way to determine width or height from video. Need `-s` in `inputd
 ```
 **可行的安裝方式**
 改為從 source code 編譯的方式安裝 FFmpeg[^1] :
+以下的安裝FFmpeg的部分，筆者會另外開一個資料夾
 
 先移除已存在的 packages
 ```shell
@@ -210,11 +211,11 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzYyMzc4NDk0Mywt
-MTc1Njc1ODU2MiwtMTg4NjYwMDgzOSwtMTMxMDcyMTE1MiwtMj
-AwMjkxOTk5NSwxMjA0NTQ0NjE3LDE4NTEyNDI5MDQsMzI4NDIz
-MzAzLDE1NzAxMDgxMDAsLTY4NTYwNDkxNywtNzU2NDQ1MDUwLD
-Y4MTk1ODY4NywxNjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1
-NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLT
-I5Nzk1OTgxMywtNjkyODM0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE2Mjc5ODExMDgs
+NjIzNzg0OTQzLC0xNzU2NzU4NTYyLC0xODg2NjAwODM5LC0xMz
+EwNzIxMTUyLC0yMDAyOTE5OTk1LDEyMDQ1NDQ2MTcsMTg1MTI0
+MjkwNCwzMjg0MjMzMDMsMTU3MDEwODEwMCwtNjg1NjA0OTE3LC
+03NTY0NDUwNTAsNjgxOTU4Njg3LDE2MTc0MTkyODMsMjc0NjM0
+MzgzLC0yMTA0MjU3NjExLDE5NzgxMjUwOTgsNTM3NjMwNDc0LD
+I2NTc1ODYwMiwtMjk3OTU5ODEzXX0=
 -->
