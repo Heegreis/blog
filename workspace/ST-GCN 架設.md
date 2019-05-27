@@ -39,8 +39,7 @@ ValueError: No way to determine width or height from video. Need `-s` in `inputd
 改以從 source code 編譯的方式安裝 FFmpeg[^1]
 
 遇到的問題解法
-Unknown option "--enable-x11grab".
-``
+Unknown option "--enable-x11grab".[^2]
 
 
 ## 其他 Python liberties
@@ -88,7 +87,7 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEzODY0MTQ4MjEs
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEyMDQ1NDQ2MTcs
 MTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MDEwODEwMCwtNjg1Nj
 A0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3LDE2MTc0MTkyODMs
 Mjc0NjM0MzgzLC0yMTA0MjU3NjExLDE5NzgxMjUwOTgsNTM3Nj
