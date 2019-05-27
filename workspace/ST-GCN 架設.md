@@ -206,13 +206,13 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 
 [^4]:[ffmpeg在PC上编译问题全解决_张志辉kom_新浪博客](http://blog.sina.com.cn/s/blog_61bc01360102w815.html)
 
-*最後編輯時間:2019/5/9*
+*最後編輯時間:2019/5/28*
 <!--tags:
 環境架設, 機器學習, 動作識別
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE4NDY5NjEzOTMs
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy03Nzk0NzAwNDgs
 NjIzNzg0OTQzLC0xNzU2NzU4NTYyLC0xODg2NjAwODM5LC0xMz
 EwNzIxMTUyLC0yMDAyOTE5OTk1LDEyMDQ1NDQ2MTcsMTg1MTI0
 MjkwNCwzMjg0MjMzMDMsMTU3MDEwODEwMCwtNjg1NjA0OTE3LC
