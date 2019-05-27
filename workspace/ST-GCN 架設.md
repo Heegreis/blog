@@ -74,7 +74,7 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
 
-[^1]:[How to compile and install FFmpeg 4.0 on Debian/Ubuntu - seanthegeek.net](https://seanthegeek.net/455/how-to-compile-and-install-ffmpeg-4-0-on-debian-ubuntu/)
+[^1]:[Compile FFmpeg on Ubuntu 16.04](https://gist.github.com/teocci/f7a438013a0197a91446ee86de41faee)
 
 *最後編輯時間:2019/5/9*
 <!--tags:
@@ -82,10 +82,10 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzMyODQyMzMwMywx
-NTcwMTA4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NT
-g2ODcsMTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEs
-MTk3ODEyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NT
-k4MTMsLTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NTMyMzQ4NDUs
-OTI2MzE1Mzc3LDE2OTY5MjQwOThdfQ==
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE4NTEyNDI5MDQs
+MzI4NDIzMzAzLDE1NzAxMDgxMDAsLTY4NTYwNDkxNywtNzU2ND
+Q1MDUwLDY4MTk1ODY4NywxNjE3NDE5MjgzLDI3NDYzNDM4Mywt
+MjEwNDI1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NT
+g2MDIsLTI5Nzk1OTgxMywtNjkyODM0MTM0LDE2NTQxMzUwMTks
+LTk1MzIzNDg0NSw5MjYzMTUzNzcsMTY5NjkyNDA5OF19
 -->
