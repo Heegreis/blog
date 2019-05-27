@@ -38,6 +38,10 @@ ValueError: No way to determine width or height from video. Need `-s` in `inputd
 ```
 改以從 source code 編譯的方式安裝 FFmpeg[^1]
 
+遇到的問題解法
+Unknown option "--enable-x11grab".
+``
+
 
 ## 其他 Python liberties
 ```
@@ -76,16 +80,19 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 
 [^1]:[Compile FFmpeg on Ubuntu 16.04](https://gist.github.com/teocci/f7a438013a0197a91446ee86de41faee)
 
+[^2]:[image - Unknown option "--enable-x11grab" when installing ffmpeg on centos (6.8) - Stack Overflow](https://stackoverflow.com/questions/43364400/unknown-option-enable-x11grab-when-installing-ffmpeg-on-centos-6-8)
+
 *最後編輯時間:2019/5/9*
 <!--tags:
 環境架設, 機器學習, 動作識別
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE4NTEyNDI5MDQs
-MzI4NDIzMzAzLDE1NzAxMDgxMDAsLTY4NTYwNDkxNywtNzU2ND
-Q1MDUwLDY4MTk1ODY4NywxNjE3NDE5MjgzLDI3NDYzNDM4Mywt
-MjEwNDI1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NT
-g2MDIsLTI5Nzk1OTgxMywtNjkyODM0MTM0LDE2NTQxMzUwMTks
-LTk1MzIzNDg0NSw5MjYzMTUzNzcsMTY5NjkyNDA5OF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEzODY0MTQ4MjEs
+MTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MDEwODEwMCwtNjg1Nj
+A0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3LDE2MTc0MTkyODMs
+Mjc0NjM0MzgzLC0yMTA0MjU3NjExLDE5NzgxMjUwOTgsNTM3Nj
+MwNDc0LDI2NTc1ODYwMiwtMjk3OTU5ODEzLC02OTI4MzQxMzQs
+MTY1NDEzNTAxOSwtOTUzMjM0ODQ1LDkyNjMxNTM3NywxNjk2OT
+I0MDk4XX0=
 -->
