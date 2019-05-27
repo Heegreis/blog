@@ -36,7 +36,8 @@ sudo apt-get install ffmpeg
 ```
 ValueError: No way to determine width or height from video. Need `-s` in `inputdict`. Consult documentation on I/O.
 ```
-改以從 source code 編譯的方式安裝
+改以從 source code 編譯的方式安裝 FFmpeg
+
 
 **其他 Python liberties**
 ```
@@ -78,7 +79,7 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzIwODI5NDg2MDks
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE1NzAxMDgxMDAs
 LTY4NTYwNDkxNywtNzU2NDQ1MDUwLDY4MTk1ODY4NywxNjE3ND
 E5MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MTI1MDk4
 LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywtNjkyOD
