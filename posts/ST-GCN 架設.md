@@ -189,7 +189,10 @@ bash tools/get_models.sh
 ```shell
 python3 main.py demo --openpose <path to openpose build directory> [--video <path to your video> --device <gpu0> <gpu1>]
 ```
-device 的參數範例: `--device 0`
+範例:  
+```shell
+python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data/paperProjects/st-gcn/resource/media/ta_chi.mp4 --device 0
+```
 
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
@@ -209,11 +212,11 @@ device 的參數範例: `--device 0`
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xODg2NjAwODM5
-LC0xMzEwNzIxMTUyLC0yMDAyOTE5OTk1LDEyMDQ1NDQ2MTcsMT
-g1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MDEwODEwMCwtNjg1NjA0
-OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3LDk0ODU1OTA5OSwxNj
-E3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MTI1
-MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywtNj
-kyODM0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xNzU2NzU4NTYy
+LC0xODg2NjAwODM5LC0xMzEwNzIxMTUyLC0yMDAyOTE5OTk1LD
+EyMDQ1NDQ2MTcsMTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MDEw
+ODEwMCwtNjg1NjA0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3LD
+k0ODU1OTA5OSwxNjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1
+NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLT
+I5Nzk1OTgxMywtNjkyODM0MTM0XX0=
 -->
