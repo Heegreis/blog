@@ -196,7 +196,7 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
-
+[ST-GCN網絡安裝過程中遇到的問題 - 台部落](https://www.twblogs.net/a/5c76c74dbd9eee33991817c9)
 
 [^1]:[Compile FFmpeg on Ubuntu 16.04](https://gist.github.com/teocci/f7a438013a0197a91446ee86de41faee)
 
@@ -212,7 +212,7 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzEzOTYwNzAxNjks
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE4NDY5NjEzOTMs
 NjIzNzg0OTQzLC0xNzU2NzU4NTYyLC0xODg2NjAwODM5LC0xMz
 EwNzIxMTUyLC0yMDAyOTE5OTk1LDEyMDQ1NDQ2MTcsMTg1MTI0
 MjkwNCwzMjg0MjMzMDMsMTU3MDEwODEwMCwtNjg1NjA0OTE3LC
