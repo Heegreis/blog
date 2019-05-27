@@ -161,7 +161,7 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 
 [^2]:[image - Unknown option "--enable-x11grab" when installing ffmpeg on centos (6.8) - Stack Overflow](https://stackoverflow.com/questions/43364400/unknown-option-enable-x11grab-when-installing-ffmpeg-on-centos-6-8)
 
-[^3]:[FFmpeg编译记-依懒库安装-广东IDC网]()
+[^3]:[FFmpeg编译记-依懒库安装-广东IDC网](http://aliyun.gdidc.com.cn/forum/8713/)
 
 *最後編輯時間:2019/5/9*
 <!--tags:
@@ -169,7 +169,7 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xMDAzMTU5ODQw
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0yMDg0NTM1MTg4
 LDEyMDQ1NDQ2MTcsMTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MD
 EwODEwMCwtNjg1NjA0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3
 LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0MjU3NjExLDE5Nz
