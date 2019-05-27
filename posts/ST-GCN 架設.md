@@ -45,7 +45,7 @@ ValueError: No way to determine width or height from video. Need `-s` in `inputd
 sudo apt -y  remove ffmpeg x264 libav-tools libvpx-dev libx264-dev
 ```
 
-安裝一ㄌㄞ
+安裝依賴庫
 ```shell
 sudo apt-get update
 sudo apt-get -y install build-essential checkinstall git libfaac-dev libgpac-dev \
@@ -53,6 +53,31 @@ sudo apt-get -y install build-essential checkinstall git libfaac-dev libgpac-dev
   librtmp-dev libsdl1.2-dev libtheora-dev libva-dev libvdpau-dev libvorbis-dev \
   libx11-dev libxfixes-dev pkg-config texi2html yasm zlib1g-dev
 ```
+
+Install Yasm
+```shell
+cd ~/ffmpeg_sources
+wget http://www.tortall.net/projects/yasm/releases/yasm-1.3.0.tar.gz
+tar xzvf yasm-1.3.0.tar.gz
+cd yasm-1.3.0
+./configure --prefix="$HOME/ffmpeg_build" --bindir="$HOME/bin"
+make
+make install
+```
+
+Install nasm
+```shell
+cd ~/ffmpeg_sources
+wget http://www.nasm.us/pub/nasm/releasebuilds/2.13.01/nasm-2.13.01.tar.bz2
+tar xjvf nasm-2.13.01.tar.bz2
+cd nasm-2.13.01
+./autogen.sh
+PATH="$HOME/bin:$PATH" ./configure --prefix="$HOME/ffmpeg_build" --bindir="$HOME/bin"
+PATH="$HOME/bin:$PATH" make
+make install
+```
+
+
 
 遇到的問題解法
 Unknown option "--enable-x11grab".[^2]
@@ -103,10 +128,10 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzM1NTgxNzA0Mywx
-MjA0NTQ0NjE3LDE4NTEyNDI5MDQsMzI4NDIzMzAzLDE1NzAxMD
-gxMDAsLTY4NTYwNDkxNywtNzU2NDQ1MDUwLDY4MTk1ODY4Nyw5
-NDg1NTkwOTksMTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNT
-c2MTEsMTk3ODEyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0y
-OTc5NTk4MTMsLTY5MjgzNDEzNF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy01MDI1MTAyNjEs
+MTIwNDU0NDYxNywxODUxMjQyOTA0LDMyODQyMzMwMywxNTcwMT
+A4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NTg2ODcs
+OTQ4NTU5MDk5LDE2MTc0MTkyODMsMjc0NjM0MzgzLC0yMTA0Mj
+U3NjExLDE5NzgxMjUwOTgsNTM3NjMwNDc0LDI2NTc1ODYwMiwt
+Mjk3OTU5ODEzLC02OTI4MzQxMzRdfQ==
 -->
