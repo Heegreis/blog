@@ -28,7 +28,7 @@ pip3 install torchvision -f https://download.pytorch.org/whl/cu80/stable
 ## OpenPose
 請參考
 
-## FFmpeg**  
+## FFmpeg
 ```shell
 sudo apt-get install ffmpeg
 ```
@@ -36,10 +36,10 @@ sudo apt-get install ffmpeg
 ```
 ValueError: No way to determine width or height from video. Need `-s` in `inputdict`. Consult documentation on I/O.
 ```
-改以從 source code 編譯的方式安裝 FFmpeg
+改以從 source code 編譯的方式安裝 FFmpeg[^1]
 
 
-**其他 Python liberties**
+## 其他 Python liberties
 ```
 cd st-gcn
 pip3 install -r requirements.txt
@@ -73,16 +73,19 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 # 參考資料
 [动作识别初体验 - 知乎](https://zhuanlan.zhihu.com/p/40574587)
 
+
+[^1]:[How to compile and install FFmpeg 4.0 on Debian/Ubuntu - seanthegeek.net](https://seanthegeek.net/455/how-to-compile-and-install-ffmpeg-4-0-on-debian-ubuntu/)
+
 *最後編輯時間:2019/5/9*
 <!--tags:
 環境架設, 機器學習, 動作識別
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xODcyODAwMzQy
-LDE1NzAxMDgxMDAsLTY4NTYwNDkxNywtNzU2NDQ1MDUwLDY4MT
-k1ODY4NywxNjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYx
-MSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nz
-k1OTgxMywtNjkyODM0MTM0LDE2NTQxMzUwMTksLTk1MzIzNDg0
-NSw5MjYzMTUzNzcsMTY5NjkyNDA5OF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzMyODQyMzMwMywx
+NTcwMTA4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NT
+g2ODcsMTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEs
+MTk3ODEyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NT
+k4MTMsLTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NTMyMzQ4NDUs
+OTI2MzE1Mzc3LDE2OTY5MjQwOThdfQ==
 -->
