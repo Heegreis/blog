@@ -129,7 +129,13 @@ ERROR: libass not found using pkg-config
 ```shell
 git clone https://github.com/libass/libass.git
 cd libass
-
+sh autogen.sh
+./configure --prefix=/usr --disable-static && make
+sudo make install
+```
+設定環境變數
+```shell
+export PKG_CONFIG_PATH=/usr/local/ass/lib/pkgconfig:$PKG_CONFIG_PATH
 ```
 
 FFmpeg
@@ -190,11 +196,11 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzcwNTIxODcxMCwx
-MjA0NTQ0NjE3LDE4NTEyNDI5MDQsMzI4NDIzMzAzLDE1NzAxMD
-gxMDAsLTY4NTYwNDkxNywtNzU2NDQ1MDUwLDY4MTk1ODY4Nywx
-NjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwNDI1NzYxMSwxOTc4MT
-I1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywt
-NjkyODM0MTM0LDE2NTQxMzUwMTksLTk1MzIzNDg0NSw5MjYzMT
-UzNzcsMTY5NjkyNDA5OF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzIwOTAwOTI0ODAs
+MTIwNDU0NDYxNywxODUxMjQyOTA0LDMyODQyMzMwMywxNTcwMT
+A4MTAwLC02ODU2MDQ5MTcsLTc1NjQ0NTA1MCw2ODE5NTg2ODcs
+MTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEsMTk3OD
+EyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NTk4MTMs
+LTY5MjgzNDEzNCwxNjU0MTM1MDE5LC05NTMyMzQ4NDUsOTI2Mz
+E1Mzc3LDE2OTY5MjQwOThdfQ==
 -->
