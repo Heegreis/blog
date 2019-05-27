@@ -15,7 +15,7 @@ st-gcn 是用 python 3 運行，雖然原作者的指令都是用 `python` ，�
 git clone https://github.com/yysijie/st-gcn.git
 ```
 # Prerequisites
-**PyTorch(0.4.0)**  
+## PyTorch(0.4.0)
 ```shell
 pip3 install torch==0.4.0 -f https://download.pytorch.org/whl/cu80/stable
 ```
@@ -25,10 +25,10 @@ pip3 install torch==0.4.0 -f https://download.pytorch.org/whl/cu80/stable
 pip3 install torchvision -f https://download.pytorch.org/whl/cu80/stable
 ```
 
-**OpenPose**  
+## OpenPose
 請參考
 
-**FFmpeg**  
+## FFmpeg*
 ```shell
 sudo apt-get install ffmpeg
 ```
@@ -79,9 +79,9 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6WzE1NzAxMDgxMDAs
-LTY4NTYwNDkxNywtNzU2NDQ1MDUwLDY4MTk1ODY4Nyw5NDg1NT
-kwOTksMTYxNzQxOTI4MywyNzQ2MzQzODMsLTIxMDQyNTc2MTEs
-MTk3ODEyNTA5OCw1Mzc2MzA0NzQsMjY1NzU4NjAyLC0yOTc5NT
-k4MTMsLTY5MjgzNDEzNF19
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xMzI0NTQyNTg0
+LDE1NzAxMDgxMDAsLTY4NTYwNDkxNywtNzU2NDQ1MDUwLDY4MT
+k1ODY4Nyw5NDg1NTkwOTksMTYxNzQxOTI4MywyNzQ2MzQzODMs
+LTIxMDQyNTc2MTEsMTk3ODEyNTA5OCw1Mzc2MzA0NzQsMjY1Nz
+U4NjAyLC0yOTc5NTk4MTMsLTY5MjgzNDEzNF19
 -->
