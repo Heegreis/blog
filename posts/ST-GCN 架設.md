@@ -170,11 +170,6 @@ PATH="$HOME/bin:$PATH" make
 make install
 hash -r
 ```
-
-遇到的問題解法
-Unknown option "--enable-x11grab".[^2]
-
-
 ## 其他 Python liberties
 ```
 cd st-gcn
@@ -224,10 +219,10 @@ python tools/kinetics_gendata.py --data_path <path to kinetics-skeleton>
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ+eSsOWig+aetuiorSwg5q
-mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0yMDAyOTE5OTk1
-LDEyMDQ1NDQ2MTcsMTg1MTI0MjkwNCwzMjg0MjMzMDMsMTU3MD
-EwODEwMCwtNjg1NjA0OTE3LC03NTY0NDUwNTAsNjgxOTU4Njg3
-LDk0ODU1OTA5OSwxNjE3NDE5MjgzLDI3NDYzNDM4MywtMjEwND
-I1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3NCwyNjU3NTg2MDIs
-LTI5Nzk1OTgxMywtNjkyODM0MTM0XX0=
+mf5Zmo5a2457+SJ1xuIiwiaGlzdG9yeSI6Wy0xMzEwNzIxMTUy
+LC0yMDAyOTE5OTk1LDEyMDQ1NDQ2MTcsMTg1MTI0MjkwNCwzMj
+g0MjMzMDMsMTU3MDEwODEwMCwtNjg1NjA0OTE3LC03NTY0NDUw
+NTAsNjgxOTU4Njg3LDk0ODU1OTA5OSwxNjE3NDE5MjgzLDI3ND
+YzNDM4MywtMjEwNDI1NzYxMSwxOTc4MTI1MDk4LDUzNzYzMDQ3
+NCwyNjU3NTg2MDIsLTI5Nzk1OTgxMywtNjkyODM0MTM0XX0=
 -->
