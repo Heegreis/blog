@@ -15,7 +15,7 @@
 筆者已透過 pytorch 實作了，但還想將細節搞得更懂一些，程式碼弄得更有系統性與泛用性，所以算是未完成。
 
 **手刻實作 (尚未開始)**:
-
+因為算是卷積網路的根源，所以預計要弄一個手刻版本來完整弄懂該網路。
 
 # 參考資料
 
@@ -24,5 +24,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ4MjE4NjNdfQ==
+eyJoaXN0b3J5IjpbMTM2NzI3NTQ3N119
 -->
