@@ -6,7 +6,9 @@
 **目錄**  
 [TOC]
 # 影像分類
-## Lenet
+## LeNet
+**論文**
+
 
 # 參考資料
 
@@ -15,5 +17,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk1MTI2MjddfQ==
+eyJoaXN0b3J5IjpbLTExMTcyNDQwNDBdfQ==
 -->
