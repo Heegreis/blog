@@ -7,8 +7,10 @@
 [TOC]
 # 影像分類
 ## LeNet
-**論文**
-
+雖
+**論文**:  
+[Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)  
+有49頁之多
 
 # 參考資料
 
@@ -17,5 +19,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTcyNDQwNDBdfQ==
+eyJoaXN0b3J5IjpbLTM1NjMwODcxM119
 -->
