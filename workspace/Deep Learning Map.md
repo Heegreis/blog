@@ -11,8 +11,11 @@
 [Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)  
 雖然該模型幾乎是卷積神經網路之祖，但論文有49頁之多，聽說後半主要是數學還其他各種實驗之類的，筆者就先不去詳讀這篇論文了。
 
-**實作**:  
-筆者已透過 pytorch 實作了，但還想將細節搞得更懂一些，程式碼弄得更有系統性與泛用性，所以算是**(未完成)**
+**實作 (待完善)**:  
+筆者已透過 pytorch 實作了，但還想將細節搞得更懂一些，程式碼弄得更有系統性與泛用性，所以算是未完成。
+
+**手刻實作 (尚未開始)**:
+
 
 # 參考資料
 
@@ -21,5 +24,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkzODY1MDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNzQ4MjE4NjNdfQ==
 -->
