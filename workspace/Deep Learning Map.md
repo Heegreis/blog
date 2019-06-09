@@ -9,7 +9,10 @@
 ## LeNet
 **論文**:  
 [Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)  
-雖然該模型幾乎是卷積神經網路之祖，但論文有49頁之多，聽說後半主要是數學還其他各種實驗之類的
+雖然該模型幾乎是卷積神經網路之祖，但論文有49頁之多，聽說後半主要是數學還其他各種實驗之類的，筆者就先不去詳讀這篇論文了。
+
+**實作**:  
+筆者已透過 pytorch 實作了，
 
 # 參考資料
 
@@ -18,5 +21,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDg4OTQ1Ml19
+eyJoaXN0b3J5IjpbMTI1MDEyMjY4M119
 -->
