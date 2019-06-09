@@ -26,9 +26,10 @@
 ### 論文 (尚未開始)
 [Imagenet classification with deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
-### 實作
-單純使用預訓練模型
+### 實作 (進行中)
+單純使用預訓練模型 (ㄐㄧ)
 
+遷移學習
 
 
 # 參考資料
@@ -38,5 +39,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODcyNjgzOTRdfQ==
+eyJoaXN0b3J5IjpbLTU1OTA4MjMwMl19
 -->
