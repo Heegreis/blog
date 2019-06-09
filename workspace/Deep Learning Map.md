@@ -1,30 +1,17 @@
 目的是要整理深度學習的東西，並預計希望弄出一個路線地圖或學習地圖，實現網路的部分以 PyTorch 作為工具。
-雖然進度非常之緩慢就是了
+雖然進度非常之緩慢就是了...
 [readmore]
 **目錄**  
 [TOC]
-# 標題一
+# 影像分類
 
-## 標題二
-連結說明: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
-
-`行內程式碼`
-
-```shell
-區塊程式碼
-```
-
-引用對照 [^1]。
 
 # 參考資料
-[Installing TensorFlow on Windows | TensorFlow](https://www.tensorflow.org/install/install_windows)
-
-[^1]: [被引用連結說明:](http://tieba.baidu.com/p/4565248851)
 
 *最後編輯時間:2018/5/10*
 
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE2NzcwNV19
+eyJoaXN0b3J5IjpbLTMwMTU5OTI2M119
 -->
