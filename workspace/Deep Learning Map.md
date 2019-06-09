@@ -7,10 +7,9 @@
 [TOC]
 # 影像分類
 ## LeNet
-雖
 **論文**:  
 [Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)  
-有49頁之多
+雖然該模型幾乎是卷積神經網路之祖，但論文有49頁之多，聽說後半主要是數學還其他各種實驗之類的
 
 # 參考資料
 
@@ -19,5 +18,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjMwODcxM119
+eyJoaXN0b3J5IjpbMTQ5NDg4OTQ1Ml19
 -->
