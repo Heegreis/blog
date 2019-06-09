@@ -3,7 +3,10 @@
 
 這篇文章暫時作為規劃這些東西的筆記，以及筆者自己在學習深讀學習的規劃。
 
-而每個深ㄉㄨ模型
+而每個網路模型，都會有以下部分:  
+ 1. 讀論文
+ 2. 實作
+
 [readmore]
 **目錄**  
 [TOC]
@@ -28,5 +31,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc3NjI3MTRdfQ==
+eyJoaXN0b3J5IjpbLTIwMTI2NTQ1ODhdfQ==
 -->
