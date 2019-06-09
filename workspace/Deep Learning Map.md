@@ -25,6 +25,10 @@
 ## AlexNet
 **論文 (尚未開始)**
 [Imagenet classification with deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+**實作**
+單純使用預訓練模型
+
 # 參考資料
 
 *最後編輯時間:2018/5/10*
@@ -32,5 +36,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTgzNDQxM119
+eyJoaXN0b3J5IjpbLTExOTM1MDM0MjddfQ==
 -->
