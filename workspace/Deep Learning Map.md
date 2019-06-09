@@ -3,10 +3,11 @@
 
 這篇文章暫時作為規劃這些東西的筆記，以及筆者自己在學習深讀學習的規劃。
 
-而每個網路模型，都會有以下部分:  
- 1. 讀論文
- 2. 實作
+而每個網路模型，都會有以下事情要做:  
+ - 讀論文
+ - 實作
 
+這些筆者不一定會照順序做。
 [readmore]
 **目錄**  
 [TOC]
@@ -31,5 +32,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI2NTQ1ODhdfQ==
+eyJoaXN0b3J5IjpbMTg0OTgzNDQxM119
 -->
