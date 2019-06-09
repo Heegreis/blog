@@ -1,4 +1,4 @@
-目的是要整理深度學習的東西，
+目的是要整理深度學習的東西，並預計希望弄出一個路線地圖或學習地圖，實現
 [readmore]
 **目錄**  
 [TOC]
@@ -25,5 +25,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTgzOTI5MV19
+eyJoaXN0b3J5IjpbLTEzMjU0MjIzMjBdfQ==
 -->
