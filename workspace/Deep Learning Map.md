@@ -1,4 +1,5 @@
-目的是要整理深度學習的東西，並預計希望弄出一個路線地圖或學習地圖，實現
+目的是要整理深度學習的東西，並預計希望弄出一個路線地圖或學習地圖，實現網路的部分以 PyTorch 作為工具。
+雖然進度非常之緩慢就是了
 [readmore]
 **目錄**  
 [TOC]
@@ -25,5 +26,5 @@
 <!--tags:
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU0MjIzMjBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjE2NzcwNV19
 -->
