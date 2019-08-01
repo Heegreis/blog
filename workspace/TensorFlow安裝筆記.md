@@ -1,18 +1,16 @@
-#**前言**
 
-##目錄
-
+**目錄**
 [TOC]
 
-#**安裝**
+# 安裝
 
-##**安裝TensorFlow**
+## 安裝TensorFlow
 
 此筆記紀錄支援GPU的安裝版本，安裝環境GPU為GeForce GTX 750 Ti 繪圖卡。
 
-###**安裝CUDA 8.0**
+### 安裝CUDA 8.0
 
-####**下載、安裝**
+#### 下載、安裝
 
 CUDA 8 下載網址: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 此筆記選擇local版本安裝。
@@ -20,7 +18,7 @@ CUDA 8 下載網址: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 選擇所要的版本下載完成後，打開安裝程式，照著指示安裝。此筆記安裝選項選擇: 快速(建議)。
 並安裝Patch 2 (Released Jun 26, 2017)做補丁更新。
 
-####**檢查配置是否正確**
+#### 檢查配置是否正確
 檢查CUDA Toolkit的版本: 在**命令提示字元**中輸入 `nvcc -V` 。
 
 驗證硬體與軟體的正確配置，官方文件強烈建議在**預設路徑** `C:\ProgramData\NVIDIA Corporation\CUDA Samples\v8.0\bin\win64\Release` 中執行 `DEVICEQUERY`
@@ -77,16 +75,16 @@ Result = PASS
 (另有 `bandwidthTest` 部分，cmd找不到，筆者未能理解，暫為保留)
 (設定 `$path` 尚待理解，現確認有未新專案增加路徑與現存專案增加路徑2種)
 
-###**安裝cuDNN 6.0**
+### 安裝cuDNN 6.0
 
 cuDNN下載網址: <https://developer.nvidia.com/rdp/cudnn-download>
 需註冊nVIDIA developer帳號才能下載。
 
 選擇符合的作業系統版本安裝，下載後為一個壓縮檔，將**CUDA** 資料夾裡面的3個資料夾: **bin**、**include**、**lib**，解壓縮至 `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0` 中 [[2]]。此筆記使用**cuDNN v6.0 (April 27, 2017), for CUDA 8.0**。
 
-###**原生pip安裝TensorFlow**
+### 原生pip安裝TensorFlow
 
-####**安裝**
+#### 安裝
 
 此筆記選擇GPU版本TensorFlow，使用以下指令:
 ```shell
@@ -127,5 +125,5 @@ Installation Guide Windows :: CUDA Toolkit Documentation
 
 最後編輯日期: 2017/12/29
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ0ODgyMjBdfQ==
+eyJoaXN0b3J5IjpbLTIxMDQ0MDkwMDhdfQ==
 -->
