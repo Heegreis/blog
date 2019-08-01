@@ -60,7 +60,7 @@ Keras安装和配置指南(Windows) - Keras中文文档
 
 最後編輯時間: 2018/1/19
 <!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoiY2F0ZWdvcmllczogS2VyYXNcbmRhdG
-U6ICcyMDE4LTAxLTE5J1xuIiwiaGlzdG9yeSI6WzEwOTE1NDcx
-MTRdfQ==
+eyJwcm9wZXJ0aWVzIjoiZGF0ZTogJzIwMTgtMDEtMTknXG50YW
+dzOiBLZXJhc1xuIiwiaGlzdG9yeSI6Wy0xMDE2NTkwNTY1LDEw
+OTE1NDcxMTRdfQ==
 -->
