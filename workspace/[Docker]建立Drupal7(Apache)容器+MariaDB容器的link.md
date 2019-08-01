@@ -1,10 +1,10 @@
-以下紀錄在Docker中建立Drupal7的container(容器)，以及MariaDB的container(容器)，並連接這兩個容器 ，讓Drupal實際可使用的兩種建立方式。
+紀錄在Docker中建立Drupal7的container(容器)，以及MariaDB的container(容器)，並連接這兩個容器 ，讓Drupal實際可使用的兩種建立方式。
 
 個別建立兩個容器
 
 用 Docker Compose 一次建立2個容器與設定
 [readmore]
-## 目錄
+**目錄**
 [TOC]
 
 # 共同步驟
@@ -180,5 +180,5 @@ MYSQL_DATABASE does not create database #68
 
 最後編輯時間: 2018/1/31
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk1OTc0NjRdfQ==
+eyJoaXN0b3J5IjpbMTMyOTk0NzQ2MF19
 -->
