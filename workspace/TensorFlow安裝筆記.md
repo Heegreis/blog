@@ -1,4 +1,5 @@
-
+紀錄在windows
+[readmore]
 **目錄**
 [TOC]
 
@@ -91,7 +92,7 @@ cuDNN下載網址: <https://developer.nvidia.com/rdp/cudnn-download>
 C:\> pip3 install --upgrade tensorflow-gpu
 ```
 此指令會下載最新的版本，筆者此時的版本為1.4
-####**驗證安裝成功**
+#### 驗證安裝成功
 
 在**shell**裡啟動**python**(筆者使用cmd):
 ```shell
@@ -107,7 +108,7 @@ $ python
 ```
 若輸出為`Hello, TensorFlow!` 表示成功可執行。
 
-#**參考資料**
+# 參考資料
 
 Installing TensorFlow on Windows | TensorFlow
 <https://www.tensorflow.org/install/install_windows>
@@ -125,5 +126,5 @@ Installation Guide Windows :: CUDA Toolkit Documentation
 
 最後編輯日期: 2017/12/29
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ0MDkwMDhdfQ==
+eyJoaXN0b3J5IjpbLTEwMDQ4MTI0NTJdfQ==
 -->
