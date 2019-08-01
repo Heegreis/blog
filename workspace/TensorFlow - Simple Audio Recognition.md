@@ -36,5 +36,7 @@ pip3 install tf-nightly-gpu
 
 最後編輯日期: 2017/12/29
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDcyMTU5OF19
+eyJwcm9wZXJ0aWVzIjoidGFnczogVGVuc29yRmxvd1xuZGF0ZT
+ogJzIwMTctMTItMjknXG4iLCJoaXN0b3J5IjpbODExMTA2NzU2
+XX0=
 -->
