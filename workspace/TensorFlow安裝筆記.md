@@ -1,4 +1,4 @@
-紀錄在windows
+紀錄在 windows 10 安裝 TensorFlow GPU 版本的過程
 [readmore]
 **目錄**
 [TOC]
@@ -126,5 +126,5 @@ Installation Guide Windows :: CUDA Toolkit Documentation
 
 最後編輯日期: 2017/12/29
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ4MTI0NTJdfQ==
+eyJoaXN0b3J5IjpbMzg5NjA2MDk3XX0=
 -->
