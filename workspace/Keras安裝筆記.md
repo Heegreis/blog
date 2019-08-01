@@ -1,9 +1,8 @@
-rubyxj4y94
+紀錄在 windows 10 安裝 Keras 的過程
 [readmore]
 **目錄**
 [TOC]
-
-# **安裝backend**
+# 安裝backend
 
 keras支援的backend，3種至少須選擇一種:
 
@@ -13,9 +12,9 @@ keras支援的backend，3種至少須選擇一種:
 
 請見 **Tensorflow**安裝筆記一文。
 
-# **安裝Keras**
+# 安裝Keras
 
-## **安裝**
+## 安裝
 
 在cmd中輸入:
 ```shell
@@ -25,7 +24,7 @@ keras支援的backend，3種至少須選擇一種:
 ```shell
 > pip3 install keras -U --pre --user
 ```
-## **驗證安裝成功**
+## 驗證安裝成功
 
 在shell裡(筆者使用cmd)進入python:
 ```shell
@@ -46,7 +45,7 @@ $ python mnist_mlp.py
 ```
 程式執行沒有錯誤，即成功。
 
-# **參考資料**
+# 參考資料
 
 [1]: http://blog.csdn.net/stevenkwong/article/details/68489870  "windows下pip报PermissionError解决方案 - CSDN博客"
 
@@ -61,5 +60,5 @@ Keras安装和配置指南(Windows) - Keras中文文档
 
 最後編輯時間: 2018/1/19
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTc5MDM0OV19
+eyJoaXN0b3J5IjpbMjEwMTY5NDc1MF19
 -->
