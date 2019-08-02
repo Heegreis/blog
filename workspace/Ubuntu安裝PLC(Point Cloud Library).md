@@ -153,8 +153,7 @@ Saved 5 data points to test_pcd.pcd.
   -0.734766 0.854581 -0.0361733
   -0.4607 -0.277468 -0.916762
 ```
-
-
+# 參考資料
 [^1]:[Prebuilt binaries for Linux - Point Cloud Library (PCL)](http://pointclouds.org/downloads/linux.html)
 
 [^2]:[ubuntu下的PCL安装过程 - CSDN博客:](https://blog.csdn.net/mush_room/article/details/78339578)
@@ -169,6 +168,8 @@ Saved 5 data points to test_pcd.pcd.
 
 [^7]:[Using PCL in your own project - Documentation - Point Cloud Library (PCL)](http://pointclouds.org/documentation/tutorials/using_pcl_pcl_config.php)
 
+*最後編輯時間:2018/9/10*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NTQ1MTJdfQ==
+eyJwcm9wZXJ0aWVzIjoiZGF0ZTogJzIwMTgtMDktMTAnXG4iLC
+JoaXN0b3J5IjpbMTk3NTY1OTgyNV19
 -->
