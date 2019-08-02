@@ -1,8 +1,8 @@
-# 前言
 紀錄在Ubuntu 16.04環境下安裝PCL，因筆者目的是要實作點雲的機器學習，故實際操作環境選在Docker的[ufoym/deepo](https://hub.docker.com/r/ufoym/deepo/):all-py36，為DockerHub上的一個機器學習環境包。
 
 並在最後執行官方的簡易程式，測試PCL是否安裝成功。
-## 目錄
+[readmore]
+**目錄**
 [TOC]
 # 安裝
 ## 方式1: 透過PPA安裝(快速安裝)[^1]
@@ -171,5 +171,5 @@ Saved 5 data points to test_pcd.pcd.
 *最後編輯時間:2018/9/10*
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZGF0ZTogJzIwMTgtMDktMTAnXG4iLC
-JoaXN0b3J5IjpbMTk3NTY1OTgyNV19
+JoaXN0b3J5IjpbLTIxMDU5MDgzODgsMTk3NTY1OTgyNV19
 -->
