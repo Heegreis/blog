@@ -2,7 +2,6 @@
 [readmore]
 **目錄**
 [TOC]
-
 # 本機映像檔
 以下指令中 `the_image` 代表所要操作的映像檔，請自行替換。
 
@@ -92,5 +91,6 @@ $ sudo docker-compose down
 
 *最後修改時間:2019/1/25*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDIxMDM1NV19
+eyJwcm9wZXJ0aWVzIjoiZGF0ZTogJzIwMTktMDEtMjUnXG4iLC
+JoaXN0b3J5IjpbOTg4MjYwMDc3XX0=
 -->
