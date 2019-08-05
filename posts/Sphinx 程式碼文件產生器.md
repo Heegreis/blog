@@ -58,12 +58,14 @@ extensions = ['sphinx.ext.autodoc']
 	:members:
 ```
 # 檢視結果
-可以使用 SimpleHTTPServer 建立簡易的網頁伺服器
+可以使用 SimpleHTTPServer 建立簡易的網頁伺服器[^2]
 
 # 參考資料
 [Getting Started: Overview & Installing Initial Project — Sphinx Tutorial 1.0 documentation](https://sphinx-tutorial.readthedocs.io/start/)
 
 [^1]:[飘逸的python - 代码即文档docstring - mattkang - CSDN博客](https://blog.csdn.net/handsomekang/article/details/46830083)
+
+[^2]:[用 Python 的 SimpleHTTPServer 模組快速建立一個臨時網頁伺服器（Web Server） - G. T. Wang](https://blog.gtwang.org/web-development/python-simplehttpserver-web-server/)
 
 *最後編輯時間:2019/5/25*
 
@@ -72,8 +74,8 @@ docstring, python, Sphinx
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
-9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTE2MTQzNTg0Njks
-OTA0NzUxOTA3LC04ODIzMDExNyw1NDk4MDczNjgsLTY3OTQxNj
-c5NSwxNTkxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4LC02
-ODMxMTQzNzJdfQ==
+9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTM2ODM4Mzc2NCw5
+MDQ3NTE5MDcsLTg4MjMwMTE3LDU0OTgwNzM2OCwtNjc5NDE2Nz
+k1LDE1OTExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4
+MzExNDM3Ml19
 -->
