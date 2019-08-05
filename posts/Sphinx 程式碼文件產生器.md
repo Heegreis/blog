@@ -63,7 +63,13 @@ extensions = ['sphinx.ext.autodoc']
 ```shell
 python -m SimpleHTTPServer
 ```
-顯
+
+成功的話，會顯示以下訊息
+```shell
+Serving HTTP on 0.0.0.0 port 8000 ...
+```
+
+接下來就可以到 `http://localhost:8000`
 # 參考資料
 [Getting Started: Overview & Installing Initial Project — Sphinx Tutorial 1.0 documentation](https://sphinx-tutorial.readthedocs.io/start/)
 
@@ -78,7 +84,7 @@ docstring, python, Sphinx
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
-9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTQ3NTk0NjcwNCw5
+9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbMjEyNDg0MzAxOCw5
 MDQ3NTE5MDcsLTg4MjMwMTE3LDU0OTgwNzM2OCwtNjc5NDE2Nz
 k1LDE1OTExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4
 MzExNDM3Ml19
