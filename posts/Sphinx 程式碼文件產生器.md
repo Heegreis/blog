@@ -59,7 +59,7 @@ extensions = ['sphinx.ext.autodoc']
 ```
 # 檢視結果
 可以使用 SimpleHTTPServer 建立簡易的網頁伺服器[^2]  
-在要
+在網站的根目錄執行以下指令
 ```shell
 python -m SimpleHTTPServer
 ```
@@ -77,7 +77,7 @@ docstring, python, Sphinx
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
-9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTEyNTMzOTY4MTAs
+9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTExMDk1NDIxMTUs
 OTA0NzUxOTA3LC04ODIzMDExNyw1NDk4MDczNjgsLTY3OTQxNj
 c5NSwxNTkxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4LC02
 ODMxMTQzNzJdfQ==
