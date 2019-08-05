@@ -78,16 +78,16 @@ Serving HTTP on 0.0.0.0 port 8000 ...
 
 [^2]:[用 Python 的 SimpleHTTPServer 模組快速建立一個臨時網頁伺服器（Web Server） - G. T. Wang](https://blog.gtwang.org/web-development/python-simplehttpserver-web-server/)
 
-*最後編輯時間:2019/5/25*
+*最後編輯時間:2019/7/5*
 
 <!--tags:
 docstring, python, Sphinx
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
-9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTEwNzk2NzA5OTcs
-OTA0NzUxOTA3LC04ODIzMDExNyw1NDk4MDczNjgsLTY3OTQxNj
-c5NSwxNTkxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4LC02
-ODMxMTQzNzIsMTU0MTYzMjUxMiwtMjExODk5MzM1MSwtNjgwNT
-k5ODE0LC0xODIzMDM5MDE3XX0=
+9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTQ4MzkxNDMzNSw5
+MDQ3NTE5MDcsLTg4MjMwMTE3LDU0OTgwNzM2OCwtNjc5NDE2Nz
+k1LDE1OTExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4
+MzExNDM3MiwxNTQxNjMyNTEyLC0yMTE4OTkzMzUxLC02ODA1OT
+k4MTQsLTE4MjMwMzkwMTddfQ==
 -->
