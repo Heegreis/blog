@@ -63,6 +63,7 @@ extensions = ['sphinx.ext.autodoc']
 ```shell
 python -m SimpleHTTPServer
 ```
+顯
 # 參考資料
 [Getting Started: Overview & Installing Initial Project — Sphinx Tutorial 1.0 documentation](https://sphinx-tutorial.readthedocs.io/start/)
 
@@ -77,8 +78,8 @@ docstring, python, Sphinx
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
-9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTExMDk1NDIxMTUs
-OTA0NzUxOTA3LC04ODIzMDExNyw1NDk4MDczNjgsLTY3OTQxNj
-c5NSwxNTkxMTI2OTU0LDc1ODAyODkzNSwtMTk2NzUxNjk4LC02
-ODMxMTQzNzJdfQ==
+9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTQ3NTk0NjcwNCw5
+MDQ3NTE5MDcsLTg4MjMwMTE3LDU0OTgwNzM2OCwtNjc5NDE2Nz
+k1LDE1OTExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4
+MzExNDM3Ml19
 -->
