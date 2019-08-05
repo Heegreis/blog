@@ -57,12 +57,15 @@ extensions = ['sphinx.ext.autodoc']
 .. automodule:: subFunc.main
 	:members:
 ```
+# 檢視結果
+可以使用 SimpleHTTPServer 建立簡易的網頁伺服器
 
 # 參考資料
 [Getting Started: Overview & Installing Initial Project — Sphinx Tutorial 1.0 documentation](https://sphinx-tutorial.readthedocs.io/start/)
 
 
 [^1]:[飘逸的python - 代码即文档docstring - mattkang - CSDN博客](https://blog.csdn.net/handsomekang/article/details/46830083)
+
 *最後編輯時間:2019/5/25*
 
 <!--tags:
@@ -70,9 +73,9 @@ docstring, python, Sphinx
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
-9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbOTA0NzUxOTA3LC04
-ODIzMDExNyw1NDk4MDczNjgsLTY3OTQxNjc5NSwxNTkxMTI2OT
-U0LDc1ODAyODkzNSwtMTk2NzUxNjk4LC02ODMxMTQzNzIsMTU0
-MTYzMjUxMiwtMjExODk5MzM1MSwtNjgwNTk5ODE0LC0xODIzMD
-M5MDE3XX0=
+9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbNzYwNDQ2MTU3LDkw
+NDc1MTkwNywtODgyMzAxMTcsNTQ5ODA3MzY4LC02Nzk0MTY3OT
+UsMTU5MTEyNjk1NCw3NTgwMjg5MzUsLTE5Njc1MTY5OCwtNjgz
+MTE0MzcyLDE1NDE2MzI1MTIsLTIxMTg5OTMzNTEsLTY4MDU5OT
+gxNCwtMTgyMzAzOTAxN119
 -->
