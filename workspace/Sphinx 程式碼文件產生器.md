@@ -1,4 +1,4 @@
-Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成文件的工具。
+Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成文件的工具。123
 [readmore]
 **目錄**  
 [TOC]
@@ -85,9 +85,9 @@ docstring, python, Sphinx
 -->
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
-9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbLTQ4MzkxNDMzNSw5
-MDQ3NTE5MDcsLTg4MjMwMTE3LDU0OTgwNzM2OCwtNjc5NDE2Nz
-k1LDE1OTExMjY5NTQsNzU4MDI4OTM1LC0xOTY3NTE2OTgsLTY4
-MzExNDM3MiwxNTQxNjMyNTEyLC0yMTE4OTkzMzUxLC02ODA1OT
-k4MTQsLTE4MjMwMzkwMTddfQ==
+9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbMTE1MDEwMjYzOSwt
+NDgzOTE0MzM1LDkwNDc1MTkwNywtODgyMzAxMTcsNTQ5ODA3Mz
+Y4LC02Nzk0MTY3OTUsMTU5MTEyNjk1NCw3NTgwMjg5MzUsLTE5
+Njc1MTY5OCwtNjgzMTE0MzcyLDE1NDE2MzI1MTIsLTIxMTg5OT
+MzNTEsLTY4MDU5OTgxNCwtMTgyMzAzOTAxN119
 -->
