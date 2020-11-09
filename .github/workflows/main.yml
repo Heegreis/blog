@@ -26,5 +26,5 @@ jobs:
           curl -XPOST \
           -u "${{ secrets.ACCESS_TOKEN }}" \
           -H "Accept: application/vnd.github.everest-preview+json" \
-          -d '{"ref": "main"}' \
+          -d '{"ref": "master"}' \
           https://api.github.com/repos/Heegreis/hexo-blog/actions/workflows/helloworld.yml/dispatches
