@@ -1,11 +1,14 @@
+---
+title: TensorFlow - Simple Audio Recognition
+date: 2017/12/29
+abbrlink: bccd72eb
+---
 第一次嘗試使用TensorFlow，紀錄官方教學的[Simple Audio Recognition](https://www.tensorflow.org/versions/master/tutorials/audio_recognition "Simple Audio Recognition  |  TensorFlow")專案建置與使用過程。
 
 筆者的使用環境為Win10，TensorFlow環境請參見[TensorFlow安裝筆記](https://heegreis.blogspot.tw/2017/12/tensorflow.html "Blogger內部連結")一文。
 
 目前撰寫到訓練步驟，後續待補...
-[readmore]
-**目錄**
-[TOC]
+<!--more-->
 # 下載專案
 因筆者透過非透過Sources安裝TensorFlow，安裝好的examples資料夾內無Simple Audio Recognition的範例專案。需先至GitHub下載: 
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/speech_commands
@@ -16,16 +19,16 @@ https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/speech_
 
 ## 訓練模型
 找到對應路徑後執行`train.py`檔
-```shell
+```bash
 python tensorflow/examples/speech_commands/train.py
 ```
 在**TensorFlow1.4**版應會報錯，如同此討論串: [[Windows] Speech commands tutorial does not work #14004](https://github.com/tensorflow/tensorflow/issues/14004 "[Windows] Speech commands tutorial does not work · Issue #14004 · tensorflow/tensorflow · GitHub")。
 解決方法: 等待**TensorFlow1.5**出來，或安裝`tf-nightly`
-```shell
+```bash
 pip3 install tf-nightly
 ```
 或
-```shell
+```bash
 pip3 install tf-nightly-gpu
 ```
 筆者安裝版本為: **tf-nightly-gpu-1.5.0.dev20171228**
@@ -36,7 +39,5 @@ pip3 install tf-nightly-gpu
 
 最後編輯日期: 2017/12/29
 <!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoidGFnczogVGVuc29yRmxvd1xuZGF0ZT
-ogJzIwMTctMTItMjknXG4iLCJoaXN0b3J5IjpbODExMTA2NzU2
-LC00MDQ3MjE1OThdfQ==
+eyJoaXN0b3J5IjpbLTQ2MTYwNzUyLDE5OTk0OTUzNzZdfQ==
 -->

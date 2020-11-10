@@ -1,7 +1,10 @@
+---
+title: Keras安裝筆記
+date: 2018/1/19
+abbrlink: ec2ce382
+---
 紀錄在 windows 10 安裝 Keras 的過程
-[readmore]
-**目錄**
-[TOC]
+<!--more-->
 # 安裝backend
 
 keras支援的backend，3種至少須選擇一種:
@@ -58,10 +61,6 @@ Keras中文文档
 Keras安装和配置指南(Windows) - Keras中文文档
 <https://keras-cn.readthedocs.io/en/latest/for_beginners/keras_windows/>
 
-最後編輯時間: 2018/1/19
 <!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoiZGF0ZTogJzIwMTgtMDEtMTknXG50YW
-dzOiBLZXJhc1xuIiwiaGlzdG9yeSI6Wy0xMDE2NTkwNTY1LDE1
-MDczOTMyOTgsLTEwMTY1OTA1NjUsMTA5MTU0NzExNCwyMTAxNj
-k0NzUwXX0=
+eyJoaXN0b3J5IjpbMzc1OTg2MzgxLDI1MDAwODg0NV19
 -->

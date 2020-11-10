@@ -1,8 +1,10 @@
+---
+title: TensorFlow安裝筆記
+date: 2017/12/29
+abbrlink: 64a81e71
+---
 紀錄在 windows 10 安裝 TensorFlow GPU 版本的過程
-[readmore]
-**目錄**
-[TOC]
-
+<!--more-->
 # 安裝
 
 ## 安裝TensorFlow
@@ -24,7 +26,7 @@ CUDA 8 下載網址: <https://developer.nvidia.com/cuda-80-ga2-download-archive>
 
 驗證硬體與軟體的正確配置，官方文件強烈建議在**預設路徑** `C:\ProgramData\NVIDIA Corporation\CUDA Samples\v8.0\bin\win64\Release` 中執行 `DEVICEQUERY`
 筆者結果如下:
-```shell
+```bash
 C:\ProgramData\NVIDIA Corporation\CUDA Samples\v8.0\bin\win64\Release>DEVICEQUERY
 DEVICEQUERY Starting...
 
@@ -88,14 +90,14 @@ cuDNN下載網址: <https://developer.nvidia.com/rdp/cudnn-download>
 #### 安裝
 
 此筆記選擇GPU版本TensorFlow，使用以下指令:
-```shell
+```bash
 C:\> pip3 install --upgrade tensorflow-gpu
 ```
 此指令會下載最新的版本，筆者此時的版本為1.4
 #### 驗證安裝成功
 
 在**shell**裡啟動**python**(筆者使用cmd):
-```shell
+```bash
 $ python
 ```
 
@@ -124,9 +126,6 @@ Installation Guide Windows :: CUDA Toolkit Documentation
 [2]: https://rreadmorebooks.blogspot.tw/2017/04/win10cudacudnn.html
 <https://rreadmorebooks.blogspot.tw/2017/04/win10cudacudnn.html>
 
-最後編輯日期: 2017/12/29
 <!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoidGFnczogVGVuc29yRmxvd1xuZGF0ZT
-ogJzIwMTctMTItMjUnXG4iLCJoaXN0b3J5IjpbLTk0ODE1Njcx
-MywzODk2MDYwOTddfQ==
+eyJoaXN0b3J5IjpbLTEwOTEzMzI5MzgsLTQ5NDYyMDU1NF19
 -->

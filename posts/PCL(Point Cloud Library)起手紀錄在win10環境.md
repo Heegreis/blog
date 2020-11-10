@@ -1,7 +1,10 @@
+---
+title: PCL(Point Cloud Library)起手紀錄在win10環境
+date: 2018/6/23
+abbrlink: f32ef76a
+---
 紀錄在win10環境中安裝PCL，並記錄一些常用PCL功能程式碼。
-[readmore]
-**目錄**
-[TOC]
+<!--more-->
 # 安裝
 ## cmake
 官方下載連結:
@@ -242,8 +245,6 @@ main ()
 [^10]:[The CloudViewer — PCL 0.0 documentation](http://pointclouds.org/documentation/tutorials/cloud_viewer.php#cloud-viewer)
 [^11]:[Point Cloud Library (PCL) Users mailing list - Failed to find a field named: 'rgba'. Cannot convert message to PCL type.](http://www.pcl-users.org/Failed-to-find-a-field-named-rgba-Cannot-convert-message-to-PCL-type-td3914066.html)
 
-*最後編輯時間:2018/6/23*
 <!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoiZGF0ZTogJzIwMTgtMDYtMjMnXG4iLC
-JoaXN0b3J5IjpbMTc3ODg2NjMwNV19
+eyJoaXN0b3J5IjpbMTQxNTM2NjEyMCwtNTU3MzEzNjI0XX0=
 -->

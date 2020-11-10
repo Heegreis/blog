@@ -1,21 +1,28 @@
-Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成文件的工具。123
-[readmore]
-**目錄**  
-[TOC]
+---
+title: Sphinx 程式碼文件產生器
+date: 2019/7/5
+tags:
+  - docstring
+  - python
+  - Sphinx
+abbrlink: 8a69c7ae
+---
+Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成文件的工具。
+<!--more-->
 # 初始設定
 **安裝 Sphinx**
-```shell
+```bash
 pip install sphinx
 ```
 
 可以另外安裝 theme
-```shell
+```bash
 pip install sphinx-rtd-theme
 ```
 
 **設定資料夾結構**
 其實也可以不設定，這邊是要分離文件跟原始碼所做的處理
-```txt
+```
 projectRoot
 ├---src
 └---docs
@@ -23,7 +30,7 @@ projectRoot
 筆者將原始碼統一放在 `src/` 資料夾下
 
 在 `doc/` 資料夾下執行
-```shell
+```bash
 sphinx-quickstart
 ```
 然後會有一連串的設定選項要選，但筆者也還沒很了解這些設定，以後有機會再補充。  
@@ -60,12 +67,12 @@ extensions = ['sphinx.ext.autodoc']
 # 檢視結果
 可以使用 SimpleHTTPServer 建立簡易的網頁伺服器[^2]  
 在網站的根目錄執行以下指令
-```shell
+```bash
 python -m SimpleHTTPServer
 ```
 
 成功的話，會顯示以下訊息
-```shell
+```bash
 Serving HTTP on 0.0.0.0 port 8000 ...
 ```
 
@@ -78,15 +85,6 @@ Serving HTTP on 0.0.0.0 port 8000 ...
 
 [^2]:[用 Python 的 SimpleHTTPServer 模組快速建立一個臨時網頁伺服器（Web Server） - G. T. Wang](https://blog.gtwang.org/web-development/python-simplehttpserver-web-server/)
 
-*最後編輯時間:2019/7/5*
-
-<!--tags:
-docstring, python, Sphinx
--->
 <!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoidGFnczogJ2RvY3N0cmluZywgcHl0aG
-9uLCBTcGhpbngnXG4iLCJoaXN0b3J5IjpbMTE1MDEwMjYzOSwt
-NDgzOTE0MzM1LDkwNDc1MTkwNywtODgyMzAxMTcsNTQ5ODA3Mz
-Y4LC02Nzk0MTY3OTUsMTU5MTEyNjk1NCw3NTgwMjg5MzUsLTE5
-Njc1MTY5OCwtNjgzMTE0MzcyXX0=
+eyJoaXN0b3J5IjpbMzk0MjY0OTk4LDEyNjMyNjMwNzhdfQ==
 -->
