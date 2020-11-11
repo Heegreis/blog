@@ -1,7 +1,8 @@
 ---
 title: Ubuntu安裝PCL(Point Cloud Library)
 date: 2018/9/10
-abbrlink: c603fc0f
+updated: 2018/9/10
+
 ---
 紀錄在Ubuntu 16.04環境下安裝PCL，因筆者目的是要實作點雲的機器學習，故實際操作環境選在Docker的[ufoym/deepo](https://hub.docker.com/r/ufoym/deepo/):all-py36，為DockerHub上的一個機器學習環境包。
 
@@ -172,6 +173,5 @@ Saved 5 data points to test_pcd.pcd.
 [^7]:[Using PCL in your own project - Documentation - Point Cloud Library (PCL)](http://pointclouds.org/documentation/tutorials/using_pcl_pcl_config.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA0MDk1NjUsMTgwNTY3MDk2MSwtNT
-gzNjE0MTU5XX0=
+eyJoaXN0b3J5IjpbODkyMTExODI3XX0=
 -->
