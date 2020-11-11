@@ -1,7 +1,8 @@
 ---
 title: Docker常用指令
 date: 2019/1/25
-abbrlink: a8ae56b0
+updated: 2019/1/25
+
 ---
 簡單紀錄一些docker的指令
 <!--more-->
@@ -93,5 +94,5 @@ $ sudo docker-compose down
 [^1]:[清理Docker的container，image与volume · 零壹軒·笔记](http://note.qidong.name/2017/06/26/docker-clean/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTUxMTg0NywtMTQwNjA0NTMzN119
+eyJoaXN0b3J5IjpbLTE0NzMwNDU5ODJdfQ==
 -->
