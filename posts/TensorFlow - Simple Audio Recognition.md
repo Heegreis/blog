@@ -1,7 +1,8 @@
 ---
 title: TensorFlow - Simple Audio Recognition
 date: 2017/12/29
-abbrlink: bccd72eb
+updated: 2017/12/29
+
 ---
 第一次嘗試使用TensorFlow，紀錄官方教學的[Simple Audio Recognition](https://www.tensorflow.org/versions/master/tutorials/audio_recognition "Simple Audio Recognition  |  TensorFlow")專案建置與使用過程。
 
@@ -39,5 +40,5 @@ pip3 install tf-nightly-gpu
 
 最後編輯日期: 2017/12/29
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTYwNzUyLDE5OTk0OTUzNzZdfQ==
+eyJoaXN0b3J5IjpbMjAwNDczNDM4MV19
 -->
