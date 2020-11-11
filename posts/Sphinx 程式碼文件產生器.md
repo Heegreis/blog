@@ -1,11 +1,11 @@
 ---
 title: Sphinx 程式碼文件產生器
 date: 2019/7/5
-tags:
-  - docstring
-  - python
-  - Sphinx
-abbrlink: 8a69c7ae
+updated: 2019/7/5
+tags: 
+- docstring
+- python
+- Sphinx
 ---
 Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成文件的工具。
 <!--more-->
@@ -86,5 +86,5 @@ Serving HTTP on 0.0.0.0 port 8000 ...
 [^2]:[用 Python 的 SimpleHTTPServer 模組快速建立一個臨時網頁伺服器（Web Server） - G. T. Wang](https://blog.gtwang.org/web-development/python-simplehttpserver-web-server/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MjY0OTk4LDEyNjMyNjMwNzhdfQ==
+eyJoaXN0b3J5IjpbMTA4Mjg0MzU0MV19
 -->
