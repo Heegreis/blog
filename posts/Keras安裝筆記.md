@@ -1,7 +1,8 @@
 ---
 title: Keras安裝筆記
 date: 2018/1/19
-abbrlink: ec2ce382
+updated: 2018/1/19
+
 ---
 紀錄在 windows 10 安裝 Keras 的過程
 <!--more-->
@@ -62,5 +63,5 @@ Keras安装和配置指南(Windows) - Keras中文文档
 <https://keras-cn.readthedocs.io/en/latest/for_beginners/keras_windows/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1OTg2MzgxLDI1MDAwODg0NV19
+eyJoaXN0b3J5IjpbMTExNjQyNjM0OF19
 -->
