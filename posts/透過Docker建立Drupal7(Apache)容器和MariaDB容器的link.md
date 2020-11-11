@@ -1,7 +1,8 @@
 ---
 title: 透過Docker建立Drupal7(Apache)容器和MariaDB容器的link
 date: 2018/1/31
-abbrlink: 613b126e
+updated: 2018/1/31
+
 ---
 紀錄在Docker中建立Drupal7的container(容器)，以及MariaDB的container(容器)，並連接這兩個容器 ，讓Drupal實際可使用的兩種建立方式。
 
@@ -180,6 +181,5 @@ Maxkit: Docker Compose 初步閱讀與學習記錄
 MYSQL_DATABASE does not create database #68
 <https://github.com/docker-library/mariadb/issues/68>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY3ODU0NjUsOTk1MDIwMDczLC0xND
-EzNTE1ODM5XX0=
+eyJoaXN0b3J5IjpbLTEwOTg5NDIwMThdfQ==
 -->
