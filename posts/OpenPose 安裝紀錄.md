@@ -1,11 +1,11 @@
 ---
 title: OpenPose 安裝紀錄
 date: 2019/5/10
-tags:
-  - 環境架設
-  - 姿態估計
-  - 機器學習
-abbrlink: 56dec6fa
+updated: 2019/5/10
+tags: 
+- 環境架設
+- 姿態估計
+- 機器學習
 ---
 本文紀錄安裝 OpenPose 的過程。OpenPose 是用來偵測出人體骨架的開源系統，為一種 姿態估計(pose estimation)的方法。  
 筆者使用的作業系統是 ubuntu 16.04，GPU 版本是 1080 Ti
@@ -66,5 +66,5 @@ make -j`nproc`
 [^2]:[openpose/installation.md at master · CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjc1NzM5Miw4NDE0MTUxNDBdfQ==
+eyJoaXN0b3J5IjpbLTc2NTUzMzFdfQ==
 -->
