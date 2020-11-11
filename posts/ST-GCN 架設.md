@@ -1,11 +1,11 @@
 ---
 title: ST-GCN 架設
 date: 2019/5/28
-tags:
-  - 環境架設
-  - 機器學習
-  - 動作識別
-abbrlink: 5ee86cc2
+updated: 2019/5/28
+tags: 
+- 環境架設
+- 機器學習
+- 動作識別
 ---
 紀錄 Spatial Temporal Graph Convolutional Networks(ST-GCN) 的架設過程，ST-GCN是一種深度學習網路，將GCN應用到基於骨架的人體動作識別方法。
 
@@ -31,7 +31,7 @@ pip3 install torchvision -f https://download.pytorch.org/whl/cu80/stable
 ```
 
 ## OpenPose
-請參考 [OpenPose 安裝紀錄](https://heegreis.com/posts/56dec6fa/)
+請參考 [OpenPose 安裝紀錄](https://heegreis.blogspot.com/2019/05/openpose.html) ([github](https://github.com/Heegreis/blogger/blob/master/posts/OpenPose%20%E5%AE%89%E8%A3%9D%E7%B4%80%E9%8C%84.md))
 
 ## FFmpeg
 **失敗的安裝方式**
@@ -214,5 +214,5 @@ python3 main.py demo --openpose /data/paperProjects/openpose/build --video /data
 [^4]:[ffmpeg在PC上编译问题全解决_张志辉kom_新浪博客](http://blog.sina.com.cn/s/blog_61bc01360102w815.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNjM3MThdfQ==
+eyJoaXN0b3J5IjpbLTExMzU0ODExOTJdfQ==
 -->
