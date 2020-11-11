@@ -1,6 +1,7 @@
 ---
 title: Anaconda 操作筆記
 date: 2019/5/25
+updated: 2019/5/25
 tags:
   - Anaconda
   - python
@@ -76,7 +77,5 @@ conda env remove -n envName
 
 [^2]:[conda 套件管理 environment.yml · Hello, World!](http://pre.tir.tw/008/blog/output/conda_yml.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTc5MTMzMywtNTI3NjI5NjYyLDEzMT
-M0OTI3MzQsLTEyOTYyMDQyODMsMTA3Nzk4ODMyOCwtMjA0Nzg3
-ODUzMV19
+eyJoaXN0b3J5IjpbLTMxNzk0ODQ2Nl19
 -->
