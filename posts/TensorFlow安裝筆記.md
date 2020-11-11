@@ -1,7 +1,8 @@
 ---
 title: TensorFlow安裝筆記
 date: 2017/12/29
-abbrlink: 64a81e71
+updated: 2017/12/29
+
 ---
 紀錄在 windows 10 安裝 TensorFlow GPU 版本的過程
 <!--more-->
@@ -127,5 +128,5 @@ Installation Guide Windows :: CUDA Toolkit Documentation
 <https://rreadmorebooks.blogspot.tw/2017/04/win10cudacudnn.html>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEzMzI5MzgsLTQ5NDYyMDU1NF19
+eyJoaXN0b3J5IjpbLTUzMzI1NDYyOV19
 -->
