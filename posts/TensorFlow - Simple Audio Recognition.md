@@ -2,14 +2,16 @@
 title: TensorFlow - Simple Audio Recognition
 date: 2017/12/29
 updated: 2017/12/29
-
+abbrlink: bccd72eb
+description:
+第一次嘗試使用TensorFlow，紀錄官方教學的Simple Audio Recognition專案建置與使用過程。
 ---
 第一次嘗試使用TensorFlow，紀錄官方教學的[Simple Audio Recognition](https://www.tensorflow.org/versions/master/tutorials/audio_recognition "Simple Audio Recognition  |  TensorFlow")專案建置與使用過程。
-
+<!--more-->
 筆者的使用環境為Win10，TensorFlow環境請參見[TensorFlow安裝筆記](https://heegreis.blogspot.tw/2017/12/tensorflow.html "Blogger內部連結")一文。
 
 目前撰寫到訓練步驟，後續待補...
-<!--more-->
+
 # 下載專案
 因筆者透過非透過Sources安裝TensorFlow，安裝好的examples資料夾內無Simple Audio Recognition的範例專案。需先至GitHub下載: 
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/speech_commands

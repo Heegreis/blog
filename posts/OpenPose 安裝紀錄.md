@@ -6,6 +6,10 @@ tags:
 - 環境架設
 - 姿態估計
 - 機器學習
+abbrlink: 56dec6fa
+description:
+本文紀錄安裝 OpenPose 的過程。OpenPose 是用來偵測出人體骨架的開源系統，為一種 姿態估計(pose estimation)的方法。  
+筆者使用的作業系統是 ubuntu 16.04，GPU 版本是 1080 Ti
 ---
 本文紀錄安裝 OpenPose 的過程。OpenPose 是用來偵測出人體骨架的開源系統，為一種 姿態估計(pose estimation)的方法。  
 筆者使用的作業系統是 ubuntu 16.04，GPU 版本是 1080 Ti

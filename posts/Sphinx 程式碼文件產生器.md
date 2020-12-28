@@ -6,6 +6,9 @@ tags:
 - docstring
 - python
 - Sphinx
+abbrlink: 8a69c7ae
+description:
+Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成文件的工具。
 ---
 Sphinx 是個用來幫忙在 python 程式中所寫的說明中，自動生成文件的工具。
 <!--more-->

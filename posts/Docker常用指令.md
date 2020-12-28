@@ -2,7 +2,9 @@
 title: Docker常用指令
 date: 2019/1/25
 updated: 2019/1/25
-
+abbrlink: a8ae56b0
+description:
+簡單紀錄一些docker的指令
 ---
 簡單紀錄一些docker的指令
 <!--more-->

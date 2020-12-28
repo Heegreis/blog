@@ -2,7 +2,9 @@
 title: PCL(Point Cloud Library)起手紀錄在win10環境
 date: 2018/6/23
 updated: 2018/6/23
-
+abbrlink: f32ef76a
+description:
+紀錄在win10環境中安裝PCL，並記錄一些常用PCL功能程式碼。
 ---
 紀錄在win10環境中安裝PCL，並記錄一些常用PCL功能程式碼。
 <!--more-->

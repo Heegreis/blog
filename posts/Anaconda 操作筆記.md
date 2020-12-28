@@ -6,6 +6,8 @@ tags:
   - Anaconda
   - python
 abbrlink: e9722c55
+description:
+Anaconda 可以用來分離 python 的環境，並且會預先安裝常用的科學運算套件。在做實驗或隔離專案環境時很方便。
 ---
 Anaconda 可以用來分離 python 的環境，並且會預先安裝常用的科學運算套件。在做實驗或隔離專案環境時很方便。
 <!--more-->

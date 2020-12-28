@@ -2,7 +2,9 @@
 title: Keras安裝筆記
 date: 2018/1/19
 updated: 2018/1/19
-
+abbrlink: ec2ce382
+description:
+紀錄在 windows 10 安裝 Keras 的過程
 ---
 紀錄在 windows 10 安裝 Keras 的過程
 <!--more-->
