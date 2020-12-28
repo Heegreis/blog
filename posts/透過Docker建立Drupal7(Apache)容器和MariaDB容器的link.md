@@ -3,8 +3,7 @@ title: 透過Docker建立Drupal7(Apache)容器和MariaDB容器的link
 date: 2018/1/31
 updated: 2018/1/31
 abbrlink: 613b126e
-description: 
-紀錄在Docker中建立Drupal7的container(容器)，以及MariaDB的container(容器)，並連接這兩個容器 ，讓Drupal實際可使用的兩種建立方式。
+description: 紀錄在Docker中建立Drupal7的container(容器)，以及MariaDB的container(容器)，並連接這兩個容器 ，讓Drupal實際可使用的兩種建立方式。
 個別建立兩個容器，
 用 Docker Compose 一次建立2個容器與設定
 ---

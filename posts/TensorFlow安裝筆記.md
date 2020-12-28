@@ -3,8 +3,7 @@ title: TensorFlow安裝筆記
 date: 2017/12/29
 updated: 2017/12/29
 abbrlink: 64a81e71
-description:
-紀錄在 windows 10 安裝 TensorFlow GPU 版本的過程
+description: 紀錄在 windows 10 安裝 TensorFlow GPU 版本的過程
 ---
 紀錄在 windows 10 安裝 TensorFlow GPU 版本的過程
 <!--more-->

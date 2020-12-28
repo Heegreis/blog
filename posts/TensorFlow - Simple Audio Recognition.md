@@ -3,8 +3,7 @@ title: TensorFlow - Simple Audio Recognition
 date: 2017/12/29
 updated: 2017/12/29
 abbrlink: bccd72eb
-description:
-第一次嘗試使用TensorFlow，紀錄官方教學的Simple Audio Recognition專案建置與使用過程。
+description: 第一次嘗試使用TensorFlow，紀錄官方教學的Simple Audio Recognition專案建置與使用過程。
 ---
 第一次嘗試使用TensorFlow，紀錄官方教學的[Simple Audio Recognition](https://www.tensorflow.org/versions/master/tutorials/audio_recognition "Simple Audio Recognition  |  TensorFlow")專案建置與使用過程。
 <!--more-->
