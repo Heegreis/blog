@@ -78,5 +78,5 @@ conda env remove -n envName
 
 [^2]:[conda 套件管理 environment.yml · Hello, World!](http://pre.tir.tw/008/blog/output/conda_yml.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzk0ODQ2Nl19
+eyJoaXN0b3J5IjpbNzI1ODQ2NDg1LC0zMTc5NDg0NjZdfQ==
 -->
