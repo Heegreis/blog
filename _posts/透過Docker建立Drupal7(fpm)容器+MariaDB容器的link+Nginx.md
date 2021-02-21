@@ -1,11 +1,14 @@
 ---
-title: 透過Docker建立Drupal7(Apache)容器和MariaDB容器的link
+title: 透過Docker建立Drupal7(fpm)容器+MariaDB容器的link+Nginx
 date: 2018/1/31
 updated: 2018/1/31
-abbrlink: 613b126e
-description: 紀錄在Docker中建立Drupal7的container(容器)，以及MariaDB的container(容器)，並連接這兩個容器 ，讓Drupal實際可使用的兩種建立方式。
+tags:
+  - tag1
+  - tag2
+abbrlink: 
+description: 以下紀錄在Docker中建立Drupal:8.4.4-fpm的container(容器)，以及MariaDB:10.2.12的container(容器)，連接這兩個容器 ，並安裝Nginx，讓Drupal實際可使用的兩種建立方式。
 ---
-紀錄在Docker中建立Drupal7的container(容器)，以及MariaDB的container(容器)，並連接這兩個容器 ，讓Drupal實際可使用的兩種建立方式。
+以下紀錄在Docker中建立Drupal:8.4.4-fpm的container(容器)，以及MariaDB:10.2.12的container(容器)，連接這兩個容器 ，並安裝Nginx，讓Drupal實際可使用的兩種建立方式。
 <!--more-->
 個別建立兩個容器
 
@@ -15,7 +18,7 @@ description: 紀錄在Docker中建立Drupal7的container(容器)，以及MariaDB
 ## Pull(下載)image(映像檔)
 
 Pull Drupal:7.56 和 MariaDB:10.2.7
-```bash
+```shell
 $ docker pull mariadb:10.2.7
 $ docker pull drupal:7.56
 ```
@@ -23,7 +26,7 @@ $ docker pull drupal:7.56
 # 個別建立2個容器
 
 建立MariaDB容器
-```bash
+```shell
 $ docker run --name  mariadbContainerName -e MYSQL_ROOT_PASSWORD=myPassword -d mariadb:10.2.7
 ```
 其中，  `mariadbContainerName` 是所要建立的容器 name ； `myPassword` 是所要設定的 Root 密碼。
@@ -31,37 +34,37 @@ $ docker run --name  mariadbContainerName -e MYSQL_ROOT_PASSWORD=myPassword -d m
 ## 透過 MySQL command line client 連結到 MariaDB，並建立資料庫與使用者
 
 連結資料庫，完成後即可輸入 MySQL 指令
-```bash
+```shell
 $ docker run -it --link mariadbContainerName:mysql --rm mariadb:10.2.7 sh -c 'exec mysql -h"$MYSQL_PORT_3306_TCP_ADDR" -p"$MYSQL_PORT_3306_TCP_PORT" -uroot -p"$MYSQL_ENV_MYSQL_ROOT_PASSWORD"'
 ```
 其中， `mariadb:10.2.7` 若沒有指定版本，會使用latest版。
 
 建立給 Drupal 用的資料庫
-```bash
+```shell
 > create database drupalDatabaseName;
 ```
 其中， `drupalDatabaseName` 是資料庫的名稱。
 
 建立使用者
-```bash
+```shell
 > create user username@'%' identified by 'userPassword';
 ```
 其中， `username` 是要建立的使用者名稱； `userPassword` 是使用者的密碼。
 
 設定資料庫權限
-```bash
+```shell
 > grant all privileges on drupalDatabaseName.* to username@'%';
 ```
 
 離開MariaDB
-```bash
+```shell
 > exit
 ```
 
 ## 建立Drupal容器，並且與MariaDB容器連接
 
 建立Drupal容器
-```bash
+```shell
 $ docker run --name drupalContainerName -p 80:80 --link  mariadbContainerName:mariadbNickname -d drupal:7.56
 ```
 其中， `drupalContainerName ` 是所要建立的容器 name，並且將主機的 80port 指到這個容器的 80port；`mariadbNickname` 作為 MariaDB 的別名，讓我們在建立Drupal網站時，以此代表資料庫的IP 。
@@ -74,25 +77,25 @@ $ docker run --name drupalContainerName -p 80:80 --link  mariadbContainerName:ma
 ## 安裝 Docker Compose
 
 安裝指令
-```bash
-$ curl -L "https://github.com/docker/compose/releases/download/1.10.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+```shell
+$ curl -L "sudo curl -L https://github.com/docker/compose/releases/download/1.18.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
 ```
 
 安裝完畢之後給予 Docker Compose 一定的執行權限
-```bash
+```shell
 $ chmod +x /usr/local/bin/docker-compose
 ```
 
 可透過 `docker-compose --version` 檢查版本
-```bash
+```shell
 $ docker-compose --version
-docker-compose version 1.15.0, build e12f3b9
+docker-compose version 1.18.0, build 8dd22a9
 ```
 
 ## 建立 Compose 檔案
 
 建議先建立存放檔案的資料夾
-```bash
+```shell
 $ mkdir my_drupal
 $ cd mydrupal
 ```
@@ -101,29 +104,37 @@ $ cd mydrupal
 在資料夾裡建立一個 `docker-compose.yml` 檔案，以包含 MariaDB 和 Drupal 兩個容器
 內容如下:
 ```yaml
-# Drupal with MariaDB
+# nginx: drupal:8.4.4-fpm + nginx:1.13.8 + mariadb:10.2.12
 
-version: '2'
-
+version: '3'
 services:
-
-  drupal8:
-    image: drupal:8.3.6
+  web:
+    image: nginx:1.13.8
     ports:
       - "80:80"
     volumes:
-      - /var/www/html/modules
-      - /var/www/html/profiles
-      - /var/www/html/themes
-      - /var/www/html/sites
+      - ./www/html/modules:/var/www/html/modules
+      - ./www/html/profiles:/var/www/html/profiles
+      - ./www/html/themes:/var/www/html/themes
+      - ./www/html/sites:/var/www/html/sites
+      - ./conf/site.conf:/etc/nginx/conf.d/site.conf
     restart: always
     links:
-      - mariadb
-
-  mariadb_10_2_7:
-    image: mariadb:10.2.7
+      - php
+  php:
+    image: drupal:8.4.4-fpm
     volumes:
-      - /var/lib/mysql
+      - ./www/html/modules:/var/www/html/modules
+      - ./www/html/profiles:/var/www/html/profiles
+      - ./www/html/themes:/var/www/html/themes
+      - ./www/html/sites:/var/www/html/sites
+    restart: always
+    links:
+      - db
+  db:
+    image: mariadb:10.2.12
+    volumes:
+      - ./mariadb/db:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: eb202
       MYSQL_DATABASE: drupal
@@ -133,10 +144,10 @@ services:
 ```
 **附註:** volumes 的部分可再調整周密
 
-## 透過 Compose 啟動服務
+##**透過 Compose 啟動服務**
 
 在同個目錄下透過 docker-compose up -d 就能夠以剛才建立的設定檔啟動那兩個容器。
-```bash
+```shell
 $ docker-compose up -d
 ```
 
@@ -145,18 +156,21 @@ $ docker-compose up -d
 以 docker compose 建立容器時會為其創建一個默認網路 `containerName_defaul`，造成網路隔離。
 
 查詢 docker network
-```bash
+```shell
 $ docker network ls
 ```
 
 mariadb 連接 mysql 的指令
-```bash
+```shell
 $ docker run -it --net drupal8_default --link drupal8_mariadb_10_2_7_1:mysql --rm mariadb:10.2.7 sh -c 'exec mysql -h"$MYSQL_PORT_3306_TCP_ADDR" mariadb_10_2_7 -p"$MYSQL_PORT_3306_TCP_PORT" -uroot -p"$MYSQL_ENV_MYSQL_ROOT_PASSWORD"'
 ```
 其中 `containerName_default` 為查詢到的 network name ； `mariadb_10_2_7` 為 compose 設定檔裡 MariaDB 的 container name。
 
 # 參考資料
-
+Install Docker Compose | Docker Documentation
+<https://docs.docker.com/compose/install/#install-compose>
+刪除-安裝新版-給權限-查版本
+/**/
 Docker —— 從入門到實踐
 <https://philipzheng.gitbooks.io/docker_practice/content/container/enter.html>
 
@@ -166,8 +180,8 @@ Docker —— 從入門到實踐
 MariaDB | Docker Documentation
 <https://docs.docker.com/samples/mariadb>
 
-Docker-Compose將Drupal網站跟環境設定一次搞定
-<https://blog.hellosanta.com.tw/網站設計/伺服器/docker-compose將drupal網站跟環境設定一次搞定>
+**Docker-Compose將Drupal網站跟環境設定一次搞定
+<https://blog.hellosanta.com.tw/網站設計/伺服器/docker-compose將drupal網站跟環境設定一次搞定>**
 
 在 Ubuntu 安裝 Docker 和 Docker Compose
 <https://yami.io/ubuntu-docker/>
@@ -180,6 +194,3 @@ Maxkit: Docker Compose 初步閱讀與學習記錄
 
 MYSQL_DATABASE does not create database #68
 <https://github.com/docker-library/mariadb/issues/68>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg5NDIwMThdfQ==
--->
