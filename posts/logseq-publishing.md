@@ -5,6 +5,7 @@ updated: 2022/8/24
 tags:
   - Logseq
   - 筆記
+abbrlink: 8a00778d
 description: 主要改以 Logseq 作為發布筆記的方式，基本上目前不會更新文章在此網站。
 ---
 主要改以 Logseq 作為發布筆記的方式，基本上不會更新文章在此網站了
